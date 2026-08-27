@@ -7,10 +7,10 @@
     <language>en-us</language>
     <itunes:author>Worldview Weekly</itunes:author>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Thu, 27 Aug 2026 05:29:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 05:44:46 +0000</lastBuildDate>
     <item>
-      <title>Worldview Weekly — Audio Test</title>
-      <description>Welcome to Worldview Weekly. This is a short test of the audio edition: a calm, low-noise weekly briefing designed to complement The Economist with a broader range of reputable international perspectives. Each Thursday, the full edition will turn the week’s selected articles into an original spoken briefing, organized by subject rather than by publication. The narration uses a neutral American English voice. If this voice feels right, the same voice will be used for future editions.</description>
+      <title>Worldview Weekly — Voice Test 2</title>
+      <description>Worldview Weekly. A concise international briefing for readers who want perspective without the noise of the daily news cycle. This edition is designed to complement The Economist with a broader range of reputable viewpoints. The emphasis is on significance, evidence, and context: global affairs, economics, institutions, science, technology, and society. The delivery is intentionally measured. The aim is not conversational warmth, but clarity, authority, and restraint — closer to the cadence of a serious magazine audio edition, in standard American English.</description>
       <pubDate>Thu, 27 Aug 2026 17:00:00 +0000</pubDate>
       <guid isPermaLink="false">worldview-weekly-2026-08-27</guid>
       <enclosure url="https://raw.githubusercontent.com/Launch4339/Worldview-Weekly/main/audio/episodes/2026-08-27.mp3" length="240429" type="audio/mpeg" />
