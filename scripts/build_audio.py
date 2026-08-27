@@ -73,8 +73,8 @@ def build_feed(current_date: str, current_title: str, description: str):
             pub = now
         title = current_title if date == current_date else f"Worldview Weekly — {date}"
         desc = description if date == current_date else "A previous Worldview Weekly audio edition."
-        url = f"{BASE}/audio/episodes/{f.name}"
-        items.append(f"""    <item>\n      <title>{escape(title)}</title>\n      <description>{escape(desc)}</description>\n      <pubDate>{pub}</pubDate>\n      <guid isPermaLink=\"false\">worldview-weekly-{date}</guid>\n      <enclosure url=\"{escape(url)}\" length=\"{f.stat().st_size}\" type=\"audio/mpeg\" />\n    </item>""")
+        url = f"{BASE}/audio/episodes/{f.name}?v={f.stat().st_size}"
+        items.append(f"""    <item>\n      <title>{escape(title)}</title>\n      <description>{escape(desc)}</description>\n      <pubDate>{pub}</pubDate>\n      <guid isPermaLink=\"false\">worldview-weekly-{date}-{f.stat().st_size}</guid>\n      <enclosure url=\"{escape(url)}\" length=\"{f.stat().st_size}\" type=\"audio/mpeg\" />\n    </item>""")
 
     xml = f"""<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<rss version=\"2.0\" xmlns:itunes=\"http://www.itunes.com/dtds/podcast-1.0.dtd\">\n  <channel>\n    <title>Worldview Weekly Audio</title>\n    <link>https://github.com/Launch4339/Worldview-Weekly</link>\n    <description>A low-noise weekly global counterweight to The Economist, synthesized for listening.</description>\n    <language>en-us</language>\n    <itunes:author>Worldview Weekly</itunes:author>\n    <itunes:explicit>false</itunes:explicit>\n    <lastBuildDate>{now}</lastBuildDate>\n{chr(10).join(items)}\n  </channel>\n</rss>\n"""
     PODCAST.write_text(xml, encoding="utf-8")
@@ -85,11 +85,14 @@ def main():
     date, title, body = parse_script(text)
     EPISODES.mkdir(parents=True, exist_ok=True)
     mp3 = EPISODES / f"{date}.mp3"
-    if not mp3.exists():
-        wav = EPISODES / f"{date}.wav"
-        synthesize(body, wav)
-        make_mp3(wav, mp3)
-        wav.unlink(missing_ok=True)
+    wav = EPISODES / f"{date}.wav"
+
+    # Always regenerate the current episode. This ensures changes to the script,
+    # selected voice, or speed actually replace a prior test file for the same date.
+    synthesize(body, wav)
+    make_mp3(wav, mp3)
+    wav.unlink(missing_ok=True)
+
     clean = re.sub(r"\s+", " ", body)
     desc = clean[:700] + ("…" if len(clean) > 700 else "")
     build_feed(date, title, desc)
