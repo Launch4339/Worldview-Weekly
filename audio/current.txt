@@ -1,8 +1,214 @@
 DATE: 2026-08-27
-TITLE: Worldview Weekly — Voice Test 2
+TITLE: Worldview Weekly — August 27, 2026
 
-Worldview Weekly. A concise international briefing for readers who want perspective without the noise of the daily news cycle.
+Worldview Weekly. August twenty-seventh, twenty twenty-six.
 
-This edition is designed to complement The Economist with a broader range of reputable viewpoints. The emphasis is on significance, evidence, and context: global affairs, economics, institutions, science, technology, and society.
+This week’s edition is about systems under pressure. Not the drama of the latest headline, but the slower changes underneath it: China’s accumulation of industrial and scientific capacity; Europe learning to live with extreme heat; African governments trying to capture more value from the green transition; Peru’s uneasy combination of monetary stability and political breakdown; the fading of the neoliberal settlement and of international legal constraint; the stubborn economics of industrial decarbonization; the problem of democratic control over artificial intelligence; and the changing meaning of nuclear deterrence.
 
-The delivery is intentionally measured. The aim is not conversational warmth, but clarity, authority, and restraint — closer to the cadence of a serious magazine audio edition, in standard American English.
+The common thread is that institutions matter at least as much as prices, technologies, or individual leaders. Markets operate inside political settlements. Technologies acquire consequences through the institutions that deploy them. And international order depends not only on power, but on rules and expectations that make power somewhat predictable.
+
+We begin with China.
+
+CHINA AND THE TECHNOLOGICAL STATE.
+
+In The New Yorker, Evan Osnos asks what it means to say that the future is increasingly being made in China.
+
+The easiest version of this story is familiar. China subsidizes strategic industries, manufactures at extraordinary scale, and has become dominant in solar panels, batteries, electric vehicles and drones. It installs industrial robots at a pace unmatched elsewhere. Its electricity system is enormous. Its biotech sector is advancing quickly. Chinese artificial-intelligence companies have learned to produce capable systems with fewer computing resources than their American rivals.
+
+But the more interesting question is how these achievements fit together.
+
+Osnos describes the payoff from decades of deliberate accumulation: infrastructure, engineering talent, research institutions, manufacturing ecosystems and state financing. These are not isolated industrial successes. They reinforce one another. A country that builds batteries at scale learns about power electronics, automation, materials and supply chains. A country with dense manufacturing networks can move an idea from laboratory to factory more quickly. A government willing to finance infrastructure before demand is obvious can create capabilities that later become strategic advantages.
+
+This complicates the simple view that industrial policy is mainly a distortion to be tolerated only in exceptional circumstances. Some Chinese investments have plainly been wasteful. Overcapacity is real. Local governments have produced spectacular misallocations. Yet the cumulative technological capacity is also real. China now produces at least seventy percent of several industries central to the energy transition, and its scientific position has strengthened dramatically.
+
+There is another side. The same state that can mobilize resources quickly can make enormous mistakes quickly. China’s one-child policy is the clearest historical example: a technocratic project presented as scientific necessity that produced lasting demographic damage. Political control can suppress the feedback that would expose errors. The state’s growing ability to monitor citizens, shape research priorities and discipline firms may eventually collide with the experimentation that technological dynamism requires.
+
+The question, then, is not whether an engineering state beats a market society. It is whether China can preserve dynamism while tightening control, and whether Western democracies can rebuild state capacity without sacrificing pluralism.
+
+Osnos ends in a less triumphalist place than the headline might suggest. A weakening American order does not automatically become a Chinese order. Beijing wants influence but is reluctant to inherit the costs of global crisis management. The likely outcome may be what one observer calls un-order: states hedging, subsidizing, stockpiling and searching for leverage over one another.
+
+That is a useful correction to the familiar binary of American decline versus Chinese ascent. The real transition may be from a system with a dominant organizer to one with several powerful states, none willing or able to provide the same degree of coordination.
+
+CLIMATE, CITIES, AND ADAPTATION.
+
+Our second piece is also from The New Yorker. Eric Klinenberg reports on the end of the European summer as Europeans once imagined it.
+
+Europe is warming at more than twice the global average. The reasons include its proximity to the rapidly warming Arctic, drying soils, atmospheric circulation and the reduction of aerosols that once reflected some sunlight. The result is not an abstract change in average temperature. It is a transformation in the practical conditions of urban life.
+
+Heat is an unusual disaster because it often lacks dramatic imagery. There is no single collapsed building or wall of water. Its victims are disproportionately older, poorer and socially isolated. The deaths occur in apartments, hospitals and care homes. That makes heat politically easy to underestimate even when mortality is large.
+
+European cities were also built around assumptions that no longer hold. Many homes lack air conditioning. Dense historic districts contain stone, asphalt and limited tree cover. Public buildings were designed for a milder climate. Tourism depends on the expectation that summer is the desirable season to visit cities such as Paris, Madrid, Lisbon, Athens and Milan.
+
+Adaptation is therefore becoming urban policy. Paris has removed parking, planted trees, expanded pedestrian areas and created more access to water and shade. Other cities are redesigning schools, streets and public spaces. Mechanical cooling will expand, but the larger project is to cool the urban landscape itself.
+
+The political point is important. Heat adaptation is a distributional question. Wealthier residents can buy air conditioning, leave the city or spend time in cooled commercial spaces. Poorer residents depend much more on public infrastructure. A shaded street, a nearby park, a cooled library or a public swimming area is therefore not merely an amenity. It is climate infrastructure.
+
+This framing broadens climate policy beyond the familiar debate over emissions targets and carbon prices. Mitigation remains essential. But a significant amount of warming is already here. Governments must now invest simultaneously in reducing future emissions and making present-day life tolerable.
+
+A related Foreign Policy essay by Jason Bordoff and Noah Kaufman offers a useful intellectual correction. They acknowledge that climate advocates too often treated extreme emissions scenarios as though they were central forecasts. Some of the most apocalyptic projections have become less plausible as technology and policy changed.
+
+But the correction does not point toward complacency. Climate risk is not a contest over whether the most frightening model was exactly right. Europe is already experiencing dangerous heat. The remaining uncertainty includes outcomes that are costly and difficult to reverse. And recent energy shocks have shown that dependence on internationally traded fossil fuels creates geopolitical vulnerability as well as carbon emissions.
+
+Their argument is essentially about risk management. Governments routinely act before uncertainty disappears when the downside is large: pandemics, military deterrence, nuclear safety. Climate belongs in the same category. Better science should improve policy, not become an excuse to abandon it.
+
+DEVELOPMENT AND THE GREEN TRANSITION.
+
+From Europe we move to Africa, where Kate Mackenzie and Tim Sahay, writing in Phenomenal World, describe a very different side of the energy transition.
+
+For rich countries, climate policy is often discussed as replacing a high-carbon capital stock with a cleaner one. For many African countries, the problem is different. They still need much more electricity, infrastructure and industrial capacity. The question is whether the green transition can become a development strategy rather than another extractive relationship in which raw materials leave the continent and most value is created elsewhere.
+
+There are signs of a more assertive approach.
+
+African imports of Chinese solar panels have surged. Falling prices allow countries with weak grids to add distributed electricity without first reproducing the fossil-intensive infrastructure path followed by richer economies. The scale of the electricity-access gap remains enormous, but cheap solar changes the menu of feasible development strategies.
+
+At the same time, resource-producing countries are looking at Indonesia’s experience with nickel. Indonesia restricted raw nickel exports and used access to its resource base to encourage investment in processing, stainless steel and battery production. The strategy brought environmental costs and created new concentrations of corporate power, but it also moved economic activity further up the value chain.
+
+African governments are experimenting with related policies. Guinea wants more bauxite processed domestically. Zimbabwe has pushed for lithium processing. The Democratic Republic of Congo has used restrictions on cobalt exports partly to strengthen its bargaining position.
+
+Morocco offers another model. It has used trade agreements, industrial policy and geographic proximity to Europe to build manufacturing capacity and become a significant export platform.
+
+None of this guarantees success. Export restrictions can fail. Processing plants can become foreign-owned enclaves. Industrial policy can be captured by domestic elites. Cheap Chinese imports can undermine local producers even as they improve access to technology.
+
+But the larger point is that development is not simply a matter of joining global markets and accepting the resulting specialization. Governments are trying to shape the terms on which they participate. That is particularly important when the resources involved—copper, cobalt, lithium, bauxite and renewable power—are central to the next industrial system.
+
+The green transition therefore creates a political question: who captures the rents generated by the new energy economy? A climate policy that reduces global emissions while reproducing old patterns of extraction may be environmentally successful and developmentally disappointing. African industrial strategy is an attempt to avoid that outcome.
+
+PERU: STABILITY FOR WHOM?
+
+The next piece, also from Phenomenal World, examines Peru’s so-called paradox.
+
+Peru has spent years combining extraordinary political instability with a reputation for macroeconomic competence. Presidents come and go. Congress is fragmented. Corruption scandals and institutional conflict are routine. Yet inflation has generally remained controlled, the currency comparatively stable, and the central bank widely respected.
+
+The conventional interpretation treats these as separate worlds. Politics is dysfunctional; technocracy protects the economy from politics.
+
+Stephan Gruber argues that this separation is misleading.
+
+Peru’s economic model is heavily dependent on mineral exports, foreign investment and the accumulation of reserves. Mining accounts for a large share of exports but employs a small share of workers. Much of the labor force remains informal. Productive linkages between the export sector and the rest of the economy are weak. Traditional agriculture faces pressure from imports, while manufacturing has lost relative importance.
+
+Macroeconomic stability is real and valuable. Peru avoided some of the inflationary and balance-of-payments crises that devastated neighboring countries. Poverty fell dramatically during the commodity boom. The central bank also learned from the crises of the nineteen-nineties, developing more sophisticated tools for managing exchange-rate volatility and reducing dollarization.
+
+But stability did not produce a broad developmental transformation. When commodity conditions weakened and the pandemic arrived, the fragility of household economic security became obvious. Large numbers of Peruvians remained dependent on informal work with little protection.
+
+The extractive model also produces political conflict. Mining and agribusiness require land, infrastructure and regulatory accommodation. Communities bear environmental and social costs. When opposition threatens investment, the state has often responded coercively.
+
+Gruber’s strongest claim is therefore that political weakness and economic orthodoxy are not opposites. They can reinforce one another. If major economic choices are insulated from democratic contestation, political competition shifts toward control of the state without offering credible alternatives in development strategy. Meanwhile, conflicts generated by extraction are managed through repression rather than institutional compromise.
+
+This does not mean central-bank independence is the cause of Peru’s problems, or that inflation control is unimportant. It means macroeconomic indicators are incomplete measures of institutional success. A stable currency can coexist with weak productivity, informality, territorial inequality and democratic decay.
+
+That is a useful question far beyond Peru: when policymakers describe an economy as sound, which dimensions of soundness are being measured, and which are being left outside the frame?
+
+AFTER NEOLIBERALISM.
+
+Foreign Policy’s summer issue asks what exactly is ending in the current international system. Branko Milanovic takes on neoliberalism.
+
+The term is used so loosely that it often obscures more than it clarifies. Milanovic is interested in a specific historical settlement: freer movement of goods and capital, a cosmopolitan orientation among elites, reduced barriers to international economic integration, and a broad belief that global markets would gradually make national borders less economically important.
+
+That settlement is breaking down.
+
+The important part of Milanovic’s argument is that neoliberalism was not merely defeated from outside. Its own successes created political reactions that weakened it. Global integration produced winners and losers within countries. Capital became more mobile than labor. Migration became politically salient. Communities experienced economic changes that national political institutions struggled to mediate.
+
+The replacement is not a coherent social-democratic alternative. Nor is it a simple return to the pre-globalization economy. Instead, we see a hybrid: tariffs and industrial subsidies, tighter migration controls, strategic trade restrictions, and cultural attempts to restore older social arrangements.
+
+This matters because debates about globalization often assume that policymakers can simply choose to reopen the old system once the current political cycle passes. Milanovic suggests the political foundations of that system have eroded. A durable successor will require a new bargain over trade, migration, domestic distribution and national economic security.
+
+The counterweight here is to a view that treats protectionism mainly as a failure to understand comparative advantage. Comparative advantage remains economically meaningful. But political systems must also generate legitimacy. If the distributional consequences of openness are persistently treated as secondary, voters eventually change the rules.
+
+RULES IN A HARDER WORLD.
+
+Another essay in the same Foreign Policy issue, by Rosa Brooks, asks whether international law is losing its force.
+
+The provocative title is The End of Morality, but the argument is more institutional than moralistic.
+
+International law has always been violated. Powerful states have routinely interpreted rules in self-serving ways. The postwar system was never a neutral legal order standing above power politics.
+
+Yet hypocrisy can itself reveal a constraint. When governments feel compelled to justify actions in the language of law, they acknowledge a shared normative framework. That framework creates expectations. It gives smaller states vocabulary with which to organize opposition. It provides focal points for negotiation. It makes behavior somewhat more predictable.
+
+If states cease even pretending that rules matter, the loss is therefore practical. International politics becomes harder to coordinate because there is less shared language for distinguishing ordinary competition from exceptional violation.
+
+This is especially dangerous when the world faces problems that require cooperation among rivals: climate change, pandemics, financial stability, artificial intelligence and nuclear risk.
+
+A realist might answer that power always determines outcomes. Brooks does not really deny that. Her point is that rules structure how power is exercised. They reduce transaction costs, create reputational consequences and help actors coordinate expectations.
+
+The analogy is not that international law turns states into law-abiding citizens. It is that even a weak legal system can make an anarchic environment less unpredictable.
+
+As great-power rivalry intensifies, that institutional infrastructure may become more valuable at exactly the moment it is weakening.
+
+THE POLITICAL ECONOMY OF CEMENT.
+
+Now to something less glamorous but physically fundamental: cement.
+
+Jack Copley, writing in Phenomenal World, begins with a striking fact. Cement production is responsible for roughly a quarter of global industrial carbon emissions. Concrete is the most consumed material on Earth after water.
+
+The technical problem is difficult. Cement requires high heat, and the chemical process that turns limestone into clinker releases carbon dioxide even if the heat itself comes from clean energy. Electrification alone cannot solve the problem.
+
+But Copley argues that chemistry explains only part of the industry’s failure to decarbonize.
+
+Cement is capital intensive, geographically constrained and prone to chronic overcapacity. Plants are expensive and long-lived. Because cement is bulky and relatively cheap, producers compete mainly within regional markets. When too much capacity is built, firms cut prices to keep plants running. Profitability collapses.
+
+China is the largest example. Its construction boom created enormous cement capacity. As demand slowed, the industry was left with too many plants. Similar dynamics exist in Vietnam, Thailand, Bangladesh, Indonesia and elsewhere. Globally, capacity utilization is low enough to make sustained profitability difficult.
+
+That matters for climate investment. A company struggling to earn adequate returns from existing assets is reluctant to spend heavily on carbon capture, new binders or premature plant replacement. Financial markets reinforce the pressure by rewarding debt reduction, dividends and buybacks.
+
+Europe has made somewhat more progress because public policy has absorbed part of the risk. Norway’s major green cement project depended on very large public subsidies, including support for carbon transport and storage. Even there, deployment remains limited.
+
+The implication is uncomfortable for a simple market-based climate strategy. Raising the carbon price may help, but an industry trapped in overcapacity and weak profitability may need coordinated capacity retirement, public procurement, infrastructure investment and direct support for new production methods.
+
+In other words, the transition is not just about making dirty production more expensive. It may require reorganizing the industry so that firms can invest at all.
+
+That insight applies beyond cement. Heavy industrial decarbonization often involves long-lived assets, concentrated markets, infrastructure dependencies and uncertain demand for greener products. Political economy is not an obstacle surrounding the technological problem. It is part of the technological problem.
+
+AI AND DEMOCRATIC FEEDBACK.
+
+Nathan Gardels, writing in Noema, approaches artificial intelligence from a different angle than the usual debate over safety versus innovation.
+
+His concern is social feedback.
+
+Major communications technologies repeatedly destabilized political orders. The printing press, mass newspapers, radio, television and social media changed who could speak, how quickly information travelled and how groups formed identities. Societies eventually developed institutions to manage some of the disruption: professional journalism, broadcast standards, public consultation, polling, regulatory systems and new political organizations.
+
+The problem with AI is speed. The technology is changing the information environment faster than institutions are adapting.
+
+Gardels argues that the same digital systems producing disruption could also be used to aggregate public judgment at scale. Instead of treating citizens as passive users whose behavior is measured for advertising or political targeting, institutions could build structured mechanisms for deliberation and feedback.
+
+This is not the same as governing by online poll. Public preferences are often unstable and contradictory. Complex technical questions cannot be resolved by popularity contests. But representative government already depends on imperfect systems for discovering what citizens believe and how strongly they believe it.
+
+AI could potentially make those systems richer: summarizing large volumes of public input, identifying areas of consensus and disagreement, and helping institutions understand how different groups reason about tradeoffs.
+
+The danger, of course, is that the same tools can manufacture apparent consensus, manipulate attention or centralize control. That is why the institutional design matters more than the existence of the technology.
+
+The useful shift here is conceptual. AI governance is often framed as a choice between regulation and innovation. Gardels asks a prior question: what institutions will allow societies to form legitimate collective judgments about technologies that are changing faster than conventional politics can process?
+
+The democratic challenge is not merely to restrain AI. It is to improve the feedback loops through which society decides what it wants AI to do.
+
+NUCLEAR DETERRENCE IN THE AGE OF CHEAP ATTACK.
+
+We close with Rose Gottemoeller in Foreign Affairs and the strange defeat of nuclear deterrence.
+
+The word defeat is deliberately provocative. Nuclear weapons have not become irrelevant. The possibility of catastrophic escalation still constrains direct conflict among major nuclear powers. Washington and Moscow remain cautious about crossing thresholds that could produce uncontrolled escalation.
+
+But recent conflicts expose a large zone in which nuclear arsenals provide surprisingly little protection.
+
+Ukraine has attacked military assets inside nuclear-armed Russia. India and Pakistan have exchanged significant conventional attacks despite both possessing nuclear weapons. Israel has faced sustained missile attacks despite its nuclear capability. Drones, cyber operations, sabotage and conventional precision weapons allow adversaries to impose costs below the threshold at which nuclear retaliation would be credible.
+
+This creates a paradox.
+
+Countries observing a dangerous world may conclude that they need nuclear weapons. Yet nuclear weapons do not solve many of the security problems those countries actually face. An arsenal can deter existential attack while leaving the owner exposed to persistent conventional and hybrid pressure.
+
+More proliferation could therefore increase nuclear risk without eliminating ordinary war.
+
+Gottemoeller argues that strategic stability needs new forms of restraint suited to this environment. One idea is to strengthen norms against conventional attacks on nuclear facilities, whether military or civilian. The goal would be to reduce the chance that an attack using nonnuclear weapons accidentally creates nuclear escalation or radiological disaster.
+
+The broader lesson is that deterrence is becoming layered. Strategic nuclear weapons may still deter one category of attack while cheap drones, cyber tools and precision conventional weapons transform everything below it.
+
+Security policy built around the old binary—nuclear peace or conventional war—no longer describes the actual spectrum of coercion.
+
+CLOSING.
+
+Taken together, this week’s pieces suggest a world in which capacity and legitimacy are becoming inseparable problems.
+
+China demonstrates what sustained state capacity can build, and what concentrated political power can endanger. European heat adaptation shows that climate policy must become tangible public infrastructure. African industrial strategies ask whether the green transition can redistribute productive power rather than simply replace one set of commodities with another. Peru shows that macroeconomic stability without broad development can coexist with institutional decay.
+
+The end of the neoliberal settlement and the weakening of international law both point toward a harder question: markets and rules require political foundations. They do not perpetuate themselves. Cement shows why technological transitions can stall when industry structure makes investment irrational. AI raises the problem of how democratic societies can build feedback institutions fast enough to govern accelerating technology. Nuclear deterrence shows old institutions of security still functioning, but over a shrinking portion of the conflict spectrum.
+
+None of these arguments fits neatly into a single ideological program. That is the point of this edition. A useful counterweight should not simply reverse the conclusions of another publication. It should change the questions being asked.
+
+Worldview Weekly. Perspective without the daily noise.
