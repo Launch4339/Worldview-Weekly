@@ -36,8 +36,8 @@ jobs:
 
       - name: Build audio and podcast RSS
         env:
-          KOKORO_VOICE: af_heart
-          KOKORO_SPEED: '1.0'
+          KOKORO_VOICE: am_michael
+          KOKORO_SPEED: '0.94'
         run: python scripts/build_audio.py
 
       - name: Commit generated audio
