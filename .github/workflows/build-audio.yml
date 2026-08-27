@@ -47,4 +47,6 @@ jobs:
           git add audio/episodes podcast.xml
           git diff --cached --quiet && exit 0
           git commit -m "Publish Worldview Weekly audio"
-          git push
+          git fetch origin main
+          git rebase origin/main
+          git push origin HEAD:main
