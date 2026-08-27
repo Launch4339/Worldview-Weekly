@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Worldview Weekly</title>
+    <link>https://github.com/Launch4339/Worldview-Weekly</link>
+    <description>A weekly global counterweight reading feed: concise, analytical, low-noise, and deliberately broader in perspective than The Economist.</description>
+    <language>en-us</language>
+    <generator>ChatGPT</generator>
+    <ttl>1440</ttl>
+  </channel>
+</rss>
