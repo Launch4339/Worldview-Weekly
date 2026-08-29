@@ -3,98 +3,248 @@ TITLE: Worldview Weekly — August 29, 2026
 
 Worldview Weekly. August twenty-ninth, twenty twenty-six.
 
-This rerun follows the current editorial rules: a fourteen-day candidate pool, strong source diversity, and a deliberate effort to widen the frame beyond the usual American and British magazine circuit.
+This edition keeps the same twelve selected articles from the corrected August twenty-ninth issue, but restores the fuller audio treatment. The goal is not a sequence of headlines. It is to preserve the substance of each article: the argument, the evidence, the tradeoffs, and the institutional questions that make the piece worth reading.
 
-This week’s issue centers on three overlapping questions. First, how governments are responding to fiscal pressure, industrial competition, and technological dependence. Second, how geopolitical power is being redistributed across Europe, China, the Global South, and Asia. Third, how technology becomes infrastructure—through clouds, data centers, software, and even urban culture.
+The issue moves through four connected themes. First, governments and firms under financial and industrial pressure. Second, a geopolitical order in which alliances, climate, and the Global South are all being renegotiated. Third, technology as infrastructure rather than gadgetry. And fourth, the way institutional systems are experienced by ordinary people, whether through welfare bureaucracy, data centers, or the physical transformation of a city.
 
 BUSINESS, ECONOMICS, AND POLITICAL ECONOMY.
 
 We begin with the Financial Times and the risk of a new age of financial repression.
 
-The core issue is what heavily indebted governments do when borrowing costs remain persistently high. One option is fiscal adjustment. Another is to influence the financial system itself: regulations, institutional incentives, or other mechanisms that make it easier for governments to fund themselves at below-market rates.
+The starting problem is straightforward. Many governments have accumulated large public debts, and the era of exceptionally cheap borrowing is no longer something they can safely assume will return. If long-term interest rates remain high while debt stocks stay elevated, governments face an uncomfortable arithmetic. They can cut spending, raise taxes, tolerate higher inflation, restructure obligations, or find ways to reduce the effective cost of financing themselves.
 
-The article is useful because it treats financial repression not as an obscure historical concept but as a distributional choice. If governments push down borrowing costs without reducing debt burdens, someone absorbs the loss. Savers, pension funds, banks, and investors may end up subsidizing fiscal stability.
+Financial repression belongs to that last category. Historically, the term has described policies that channel domestic savings toward government debt or hold yields below what a freer market might otherwise demand. The instruments can vary. Banks and pension funds may be encouraged or required to hold more sovereign bonds. Capital rules can make government debt especially attractive. Central banks can influence yields directly or indirectly. Capital controls or tax rules can also alter the range of alternatives available to savers.
 
-The broader lesson is that bond markets are not separate from politics. High debt changes the incentives of governments, and those incentives can reshape financial institutions.
+The key point is that none of these measures makes the debt burden disappear. They redistribute it. If a government borrows at an artificially low real interest rate, the benefit to the state is mirrored by a cost somewhere else in the system. Savers receive lower returns. Pension funds may struggle to meet long-term obligations. Banks may hold assets that are politically privileged but financially less attractive. Inflation can erode the purchasing power of fixed-income claims.
+
+This is why the article is useful as political economy rather than simply bond-market analysis. Fiscal policy, monetary policy, and financial regulation are often discussed as separate technical domains. Under heavy debt burdens they begin to blur together. The state has a strong incentive to shape the institutions through which it finances itself.
+
+The deeper question is institutional credibility. If investors begin to suspect that regulation or monetary policy is being redesigned mainly to protect public finances, the immediate effect may be lower borrowing costs, but the longer-term effect can be weaker trust. That may eventually raise the risk premium governments were trying to suppress.
+
+So the real issue is not whether financial repression is good or bad in the abstract. In some historical periods it helped countries reduce debt after war without disruptive defaults. The question is who bears the adjustment, whether the burden is visible, and whether the institutions involved can retain legitimacy while serving both public and private objectives.
 
 From there we move to Caixin Global and China’s growing economic divide.
 
-Zhao Wei describes a K-shaped Chinese economy. Exports and some newer industries remain relatively strong, while household consumption, investment, and parts of the domestic economy are much weaker. The result is a widening gap between sectors that still benefit from external demand or policy support and those constrained by weak confidence and balance-sheet pressure.
+Zhao Wei describes a K-shaped economy. The metaphor matters because China is not experiencing a simple collapse or a simple boom. Different parts of the economy are moving in sharply different directions.
 
-This is valuable partly because the frame originates inside China’s own economic debate. The central problem is not simply whether China can export more or compete with the United States. It is whether domestic demand can support a more balanced growth model.
+Exports remain comparatively strong. Some advanced manufacturing sectors, including parts of the green-energy and technology complex, continue to expand. Firms tied to external demand or strategic policy priorities can still find capital, orders, and government support.
 
-Our third business story is from Nikkei Asia. Honda and Nissan are moving toward joint development of vehicle software.
+But the domestic side of the economy looks weaker. Household consumption remains constrained. Property-related balance sheets are still damaged. Private investment is subdued. Local governments face fiscal pressure. Traditional sectors that once benefited from construction, real estate, and local infrastructure spending no longer provide the same engine of demand.
 
-The significance goes beyond one corporate partnership. Japanese automakers face rising software-development costs, rapid EV competition, and a transition toward vehicles whose value increasingly depends on operating systems, data, and digital integration.
+The result is a growth model that can still produce impressive output in selected sectors while leaving households and many private firms feeling much less prosperous than the headline numbers suggest.
 
-The story is an Asian industrial-organization view of the auto transition. It is less about headline tariffs or national rivalry and more about how firms adapt when hardware manufacturing is no longer enough.
+This matters because the imbalance is self-reinforcing. Weak household confidence encourages saving rather than consumption. Weak demand discourages private investment. Local fiscal stress limits the ability of governments to stimulate activity in the old way. Export strength can compensate for some of that weakness, but heavy reliance on foreign demand creates political friction abroad and does little by itself to repair household balance sheets at home.
+
+The article’s perspective is especially useful because it comes from within China’s own economic debate. The question is not framed primarily as whether China is winning or losing against the United States. It is whether the domestic economy can become less dependent on investment, property, and external demand, and whether income distribution can support stronger household consumption.
+
+That leads to a broader institutional issue. Rebalancing toward consumers is not simply a matter of telling people to spend more. Households save partly because of uncertainty around housing, pensions, health care, education, and future income. A more consumption-driven economy therefore requires changes in social policy, fiscal transfers, and the distribution of income, not just monetary stimulus.
+
+The K-shaped pattern is a warning against reading China through aggregate statistics alone. Industrial capability can rise even while household confidence falls. Export competitiveness can improve even while domestic demand weakens. Both can be true at the same time.
+
+Our third business story comes from Nikkei Asia. Honda and Nissan are moving toward joint development of vehicle software.
+
+At first glance this looks like a conventional corporate cooperation story. Two Japanese automakers want to share development costs. But the significance is larger because the automobile itself is changing.
+
+For most of the industry’s history, the competitive core was mechanical engineering, manufacturing scale, supply-chain management, and brand. Software mattered, but it was embedded inside separate systems: engine control, infotainment, safety systems, navigation, and dozens of electronic modules supplied by different vendors.
+
+The industry is now moving toward software-defined vehicles. More functions are controlled centrally. Operating systems, data architecture, over-the-air updates, advanced driver assistance, battery management, and digital services increasingly shape the value of the car after it leaves the factory.
+
+That transition creates a problem for traditional manufacturers. Software platforms are expensive to build and maintain, and their economics reward scale. A company may be excellent at manufacturing millions of vehicles yet still struggle to justify duplicating enormous software-development efforts across brands and models.
+
+Chinese EV companies and technology-led entrants have increased the pressure. They often treat the vehicle more like a computing platform from the beginning. That allows faster feature iteration and tighter integration between hardware and software.
+
+For Honda and Nissan, cooperation is therefore not simply about saving money. It is a response to a structural shift in where competitive advantage lives.
+
+The broader lesson is that industrial transitions often require new organizational forms. Firms that once competed independently may need shared platforms for infrastructure that no longer differentiates them enough to justify duplication. The same logic appears in semiconductors, cloud computing, batteries, and telecommunications.
+
+This is also why the Nikkei perspective matters. The story is not reduced to tariffs, subsidies, or national rivalry. It is about how Japanese firms are reorganizing themselves inside an Asian industrial ecosystem where software, batteries, and Chinese competition are forcing changes in corporate strategy.
 
 GLOBAL POLITICS AND INSTITUTIONS.
 
 Foreign Affairs provides the first geopolitical piece. Jennifer Kavanagh and Justin Logan argue that the United States should leave much more of Europe’s defense to Europeans.
 
-Their case is explicitly realist. Europe is wealthy enough to carry a larger share of its own military burden. Continuing the current level of U.S. responsibility may discourage that adjustment and consume resources Washington could deploy elsewhere.
+Their case is rooted in realism rather than isolationism. Europe, they argue, is wealthy, technologically capable, and populous enough to assume a much larger share of responsibility for its own security. The United States does not need to abandon NATO or disengage diplomatically from Europe, but it should reduce the scale of its permanent military commitment and force European governments to adapt.
 
-Whether or not one agrees, the article is useful because it challenges a deeply embedded assumption in the postwar security order: that strong alliances necessarily require a large permanent American military role.
+The article challenges a familiar assumption in postwar strategy: that the credibility of European deterrence depends on a large and enduring American military presence. The authors argue that this arrangement may now create as many distortions as benefits.
+
+First, it can encourage burden shifting. If Washington consistently provides the most important military capabilities, European governments have less incentive to make difficult fiscal and political choices around defense spending, procurement, manpower, and industrial capacity.
+
+Second, U.S. resources are finite. Military commitments in Europe compete with priorities in Asia and elsewhere. A strategy that treats every existing commitment as permanent risks producing a military posture that is broad but strategically unfocused.
+
+Third, European security has changed. Russia remains dangerous, particularly to states near its borders, but it is also weaker in many conventional dimensions than the Soviet Union was. Europe collectively possesses far greater economic resources than Russia. The authors therefore see the imbalance not as a shortage of European capability in principle, but as a failure to organize and deploy that capability effectively.
+
+The obvious counterargument is that American withdrawal could create instability during the transition. European governments might underinvest, disagree over priorities, or struggle to reproduce capabilities that currently depend heavily on the United States. The nuclear dimension is especially difficult. A Europe asked to shoulder more responsibility would need credible answers about deterrence, command, and the roles of Britain and France.
+
+The value of the article is not that its recommendation must be accepted. It is that it forces the underlying assumption into the open. Strong alliances do not necessarily require one partner to provide permanent disproportionate protection. At some point, reassurance can become dependency.
 
 Next, Project Syndicate asks whether China is really a champion of the Global South.
 
-Adekeye Adebajo argues that Beijing often presents itself as the voice of developing countries while pursuing a more conservative goal: increasing China’s influence inside the existing international system rather than replacing it with a radically different order.
+Adekeye Adebajo approaches China from an African perspective rather than through the usual Washington-Beijing binary.
 
-This is a particularly useful perspective because it comes from outside the standard Washington-Beijing binary. It asks how China looks from Africa rather than how Africa fits into great-power competition.
+China regularly presents itself as a developing country and as an advocate for a more representative international order. Its diplomacy emphasizes sovereignty, anti-colonial history, development finance, South-South cooperation, and reform of institutions that still reflect the power distribution of the mid-twentieth century.
+
+There is truth in that story. China has financed infrastructure across Africa, Asia, and Latin America. It has supported greater representation for developing countries in some global institutions. It often takes positions that resonate with governments frustrated by Western conditionality.
+
+But Adebajo argues that China is not trying to overturn the international system in the way revolutionary rhetoric might suggest. Beijing benefits enormously from the existing order. It is a permanent member of the United Nations Security Council. It sits at the center of global trade. Its firms use international markets, shipping routes, financial institutions, and legal arrangements that were largely built before China became a major power.
+
+What Beijing often wants is not abolition of the system but a larger share of authority within it.
+
+That distinction matters for the Global South. Developing countries are not a coherent bloc with a single set of interests. Some want more Chinese investment. Some fear commodity dependence. Some value Western security relationships. Many want room to bargain with both sides rather than join either camp.
+
+China’s own policies can also reproduce asymmetries it criticizes in Western relationships. Infrastructure finance can create debt exposure. Commodity trade can reinforce extractive patterns. Chinese firms may capture much of the value from projects that governments promote as development partnerships.
+
+The piece therefore complicates two simplistic narratives at once. China is neither merely a neo-colonial predator nor automatically the political leader of the Global South. It is a major power pursuing national interests through a system it wants to reshape but also preserve.
 
 Our third geopolitical piece returns to the Financial Times and climate-driven geostrategy.
 
-Climate change is beginning to alter trade routes, infrastructure, energy systems, and strategic geography. Arctic navigation, drought-stressed corridors, and changing patterns of energy demand all affect how states think about resilience and power.
+Climate change is often discussed as an environmental or energy-policy problem. The article asks us to see it instead as a force that changes geography itself.
 
-The piece is useful because it moves climate change out of a specialized environmental-policy box. Climate is becoming a variable in geoeconomics and national strategy.
+Consider shipping. Melting Arctic ice can alter the seasonal accessibility of northern routes. Those changes affect port investment, maritime insurance, military presence, and the strategic importance of states that once seemed peripheral to major trade corridors.
+
+Consider energy. Heat waves increase electricity demand for cooling. Drought can reduce hydropower output. Low river levels can disrupt inland freight and cooling water for power stations. Extreme weather can damage transmission infrastructure and raise the value of redundancy in national grids.
+
+Consider food and water. Persistent drought, crop failures, and changing rainfall patterns can alter import dependence and migration pressure. States may begin to treat water infrastructure, grain reserves, and agricultural technology as strategic assets in the same way they already treat energy supplies.
+
+And consider military planning. Bases, ports, airfields, and supply routes were built for historical climate conditions. Rising seas, extreme heat, storms, and wildfire can change the reliability and cost of those assets.
+
+The article’s central contribution is to move climate change into the language of state power. Climate is not simply another policy domain competing for attention with security. It increasingly changes the physical conditions under which security, trade, and industrial strategy operate.
+
+This also helps explain why adaptation is becoming geopolitically important. Mitigation is a collective-action problem: every country benefits when emissions fall, regardless of who pays. Adaptation is more directly national and local. Governments can harden ports, redesign grids, protect water systems, and change building standards even when international cooperation is weak.
+
+That creates a world in which richer and more capable states may become increasingly resilient while poorer states face compounding vulnerabilities. Climate strategy therefore becomes inseparable from development finance and international inequality.
 
 SCIENCE AND TECHNOLOGY.
 
 Quanta Magazine asks a deceptively simple question: does computer science need computers?
 
-The article traces the relationship between theoretical computer science and the physical machines we call computers. Many foundational ideas in algorithms, computation, and complexity can be studied independently of any specific hardware.
+The answer begins with a historical distinction between computation as a physical activity and computation as a mathematical idea.
 
-This is a welcome break from the product cycle. Instead of asking which company has the best model or chip, the article asks what computation actually is as an intellectual object.
+Long before modern electronic machines, mathematicians were interested in procedures: finite sequences of rules that transform inputs into outputs. The invention of digital computers made those procedures enormously more powerful in practice, but theoretical computer science asks a deeper question. What can be computed in principle? How efficiently can it be computed? What kinds of problems remain hard even if hardware becomes faster?
+
+That is why some of the field’s foundational ideas are remarkably independent of any particular machine. Turing machines, complexity classes, algorithms, proof systems, and questions about decidability are abstractions. They allow researchers to reason about computation without committing to a specific processor, programming language, or physical architecture.
+
+But the separation is never complete. Real computers shape which theoretical problems become urgent. Advances in cryptography, distributed systems, quantum computing, and machine learning repeatedly create new mathematical questions. Hardware constraints can also reveal the practical significance of theoretical limits.
+
+The article is valuable because it reminds us that computer science is not simply the study of computers in the consumer sense. It sits at the boundary of mathematics, engineering, and logic.
+
+That distinction matters in the current technology environment. Public discussion tends to collapse computing into products: chips, models, platforms, devices. Theoretical computer science asks what kinds of problems exist beneath those products and what their inherent structure tells us about the limits of technological progress.
+
+It is also a useful intellectual counterweight to the idea that faster hardware automatically solves harder problems. Sometimes it does. Sometimes a problem remains intractable because its difficulty grows faster than hardware improvements can compensate. Understanding that distinction is one of the field’s central achievements.
 
 Rest of World then turns to cloud sovereignty.
 
-Governments in Europe, India, Brazil, and China have all tried in different ways to reduce dependence on the dominant American cloud platforms. Yet the underlying concentration of infrastructure, software ecosystems, and technical standards remains difficult to escape.
+Governments around the world increasingly worry that a small number of American technology companies control essential digital infrastructure. Amazon Web Services, Microsoft Azure, and Google Cloud provide computing, storage, databases, security tools, and developer services that have become foundational to both business and government.
 
-The article reframes cloud computing as political economy. Digital sovereignty is not achieved simply by passing a law or building a domestic data center. Control depends on deep technological capabilities, developer ecosystems, and standards.
+The obvious response is sovereignty. Countries want local data centers, domestic cloud providers, localization requirements, or procurement rules that reduce dependency.
+
+But the article argues that physical location is only one layer of dependence.
+
+A locally owned data center can still rely on software standards, development tools, chips, operating environments, and technical ecosystems controlled elsewhere. Government agencies can insist that data remain inside national borders while remaining dependent on foreign companies for upgrades, security patches, proprietary interfaces, and specialized services.
+
+Scale also matters. The largest cloud platforms benefit from enormous capital expenditure, global networks, established developer communities, and a vast catalogue of services. Domestic competitors often cannot simply reproduce that stack.
+
+Different countries therefore face different versions of the same problem. Europe emphasizes regulation and trusted-cloud frameworks. India wants domestic capability while also welcoming foreign investment. Brazil seeks greater technological autonomy. China has built stronger local champions but still depends on global semiconductor and software ecosystems in important areas.
+
+The broader point is that technological sovereignty is layered. Data sovereignty, infrastructure sovereignty, software sovereignty, and supply-chain sovereignty are not the same thing.
+
+A government may achieve one while remaining dependent in another.
+
+This is why the article is more interesting than a standard Big Tech critique. It treats cloud computing as political economy. Control depends on capital, standards, skills, interoperability, and the cumulative advantages of ecosystems built over decades.
 
 CULTURE, SOCIETY, AND IDEAS.
 
 The Atlantic examines what Annie Lowrey calls the time tax.
 
-Public-benefit systems often impose repeated verification, paperwork, waiting, and procedural burden on people seeking help. Even when the nominal benefit exists, access can require large amounts of unpaid time.
+The concept is simple. People often think about public benefits in monetary terms: how much assistance does a program provide, and who qualifies? But access itself consumes another scarce resource—time.
 
-This is a state-capacity story told from the user side. Administrative complexity is not merely inefficient. It distributes costs onto people least able to absorb them.
+Applicants may need to gather documents, fill out forms, wait on telephone lines, make repeated visits to offices, prove eligibility again after small life changes, navigate websites that fail, or respond to requests for information that another part of government already possesses.
+
+For administrators, each individual requirement can sound reasonable. Verification reduces fraud. Documentation creates accountability. Renewal rules keep records current.
+
+But layered together, these requirements create a system in which the burden of proving eligibility falls repeatedly on the person with the least institutional power.
+
+The cost is not distributed evenly. A professional with flexible work, reliable transportation, broadband, child care, and administrative confidence can navigate bureaucracy more easily. A low-wage worker who loses income for every hour away from work experiences the same form as a much larger burden.
+
+This is why the time tax is more than inconvenience. It can become a hidden form of rationing. A benefit may exist legally while being difficult enough to obtain that some eligible people never receive it.
+
+The article connects this to a broader state-capacity problem. Governments often focus on designing programs but underinvest in the interface through which citizens experience them. A policy can be generous on paper and still feel punitive in practice.
+
+Administrative simplification therefore has distributional consequences. Automatic enrollment, data sharing between agencies, longer certification periods, simpler forms, and better digital systems can increase the real value of a benefit without changing its nominal amount.
+
+The counterweight here is to both ideological camps. Expanding programs is not enough if implementation is dysfunctional. Cutting programs is not the only route to reducing bureaucracy. Institutional design determines whether public capacity is actually usable.
 
 The second culture-and-society piece is from Initium Media and remains in Chinese.
 
-報導走入深圳新興的科技旅遊路線，觀察無人機配送、機器人與城市科技基礎設施，如何從產業能力變成可以被觀看、體驗與想像的城市文化。
+這篇報導走進深圳新興的「科技旅遊」路線。旅客不是去看傳統名勝，而是去看無人機配送、機器人、智慧交通、科技企業展示空間，以及城市裡那些把「未來」變成日常景觀的基礎設施。
 
-這篇的價值在於，它不是從美中競爭的角度談中國科技，而是從深圳本地的城市生活切入。科技在這裡不只是國力指標，也是一種城市品牌、一種消費體驗，甚至是一種對未來生活的想像。
+它有趣的地方，是把中國科技從宏大的國力敘事裡拉回到城市生活。外界談深圳，通常會想到華為、騰訊、無人機、電動車，或者把它放在美中科技競爭的框架裡。但對生活在城市裡的人來說，科技同時是一種消費經驗、一種城市品牌，也是一種對未來生活的想像。
+
+科技旅遊本身就是這種轉變的結果。當一座城市開始把產業能力包裝成可參觀、可體驗的景點，說明技術不再只是工廠或研發部門裡的事情，而成為城市身份的一部分。
+
+這裡也有一種微妙的宣傳與現實交織。展示路線會突出最先進、最順暢、最具未來感的部分，但真正重要的是觀察這些技術在普通環境裡到底有多成熟。機器人是否真的能取代人工？無人配送是日常基礎設施，還是一種新奇體驗？智慧城市讓生活更方便，還是增加新的監控與依賴？
+
+報導的價值不在於給出簡單答案，而是提供一個中國本地視角。中國科技在這裡不是抽象的「競爭力」，而是具體的空間、服務和生活方式。
+
+對 Worldview Weekly 來說，這正是需要保留的視角差異。同一件事，如果只從華盛頓或倫敦看，會變成產業政策和地緣競爭；從深圳街頭看，則會變成普通人如何接觸、接受、懷疑和消費未來。
 
 FLEXIBLE SELECTIONS.
 
 Rest of World returns with a second piece, this time on India’s data-center boom.
 
-Rapid data-center construction is often discussed as evidence of technological progress and national capacity. But the infrastructure consumes land, water, electricity, and public incentives. Communities displaced or affected by these projects may have little say in the benefits or costs.
+India wants to become a major destination for digital infrastructure. The case is easy to understand. Data consumption is rising. AI requires more computing capacity. Domestic cloud demand is growing. Governments see data centers as strategic infrastructure and as symbols of participation in the global technology economy.
 
-This is an important corrective to the idea that more compute capacity is automatically an economic good. Infrastructure creates winners and losers, and those choices are political.
+But data centers are physical objects, not weightless clouds.
+
+They require large parcels of land. They consume significant electricity. Cooling systems can require substantial water. They need reliable grid connections, fiber infrastructure, roads, and often public incentives.
+
+That means their costs are local even when their economic benefits are national or global.
+
+The article focuses on communities that experience land acquisition, environmental pressure, or changes in access to resources without necessarily receiving a proportionate share of the new wealth. Jobs are often fewer than residents imagine because data centers are capital intensive. Construction can employ many workers temporarily, but the permanent workforce may be relatively small.
+
+The political question is therefore who gets to define development. A government can look at a data center and see investment, tax revenue, technological status, and national capacity. A nearby community may see water competition, displaced land use, higher electricity demand, or benefits that flow mostly elsewhere.
+
+This tension is likely to become more important as AI infrastructure expands globally. The same debate is appearing in the United States, Europe, Latin America, and Southeast Asia.
+
+The broader lesson is that digital infrastructure belongs inside ordinary development politics. It should be evaluated with the same questions asked of factories, mines, highways, or power plants: who pays, who benefits, what resources are consumed, and who has a voice in the decision.
 
 Finally, Project Syndicate argues that democracies need to get serious about industrial policy.
 
-Ngaire Woods makes a state-capacity case. If democratic governments want resilience in strategically important industries, they need institutions capable of setting priorities, coordinating investment, and sustaining policy over time.
+Ngaire Woods makes a state-capacity argument rather than a nostalgic case for central planning.
 
-The argument is not that markets should disappear. It is that productive capacity in critical sectors does not always emerge automatically from short-term market signals.
+The old policy consensus assumed that governments should create broad conditions for competition and allow markets to allocate capital across sectors. Industrial policy was often associated with protectionism, political favoritism, or failed attempts to pick winners.
 
-Taken together, this week’s issue is less about whether markets or states are better in the abstract. It is about institutional competence.
+That skepticism had good reasons behind it. Governments can waste money. Firms can capture subsidies. Political priorities can distort investment. Protected industries can become inefficient.
 
-Governments under fiscal pressure may reshape finance. Firms under technological pressure may pool capabilities. Countries worried about dependency are trying to rebuild industrial and digital sovereignty. And communities are increasingly confronting the physical footprint of supposedly weightless technologies.
+But the strategic environment has changed. Supply-chain shocks, energy insecurity, semiconductor shortages, pandemic disruptions, and geopolitical rivalry have made productive capacity itself a national concern.
 
-The recurring question is not simply who has more capital, technology, or military power. It is who has the institutions capable of converting those resources into durable capacity without destroying legitimacy in the process.
+The question is no longer whether governments intervene. They already do, through procurement, tax policy, trade restrictions, research funding, infrastructure, standards, and national-security rules. The real question is whether intervention is coherent and accountable.
+
+Woods argues that democratic industrial policy requires institutions capable of learning. Governments need technical expertise, long time horizons, transparent goals, mechanisms for withdrawing support from failing projects, and enough independence to resist capture while remaining democratically accountable.
+
+This distinguishes serious industrial policy from simply handing money to politically connected firms.
+
+There is also a coordination problem. Building a domestic semiconductor industry, battery ecosystem, or clean-energy supply chain requires more than subsidizing one factory. It may require skills, infrastructure, research institutions, supplier networks, financing, permitting reform, and reliable demand.
+
+Markets can coordinate some of those pieces, but they may underinvest when the returns depend on complementary investments happening elsewhere.
+
+The deeper argument is that democratic states need to recover the ability to build capacity without copying authoritarian models. Industrial policy is not inherently democratic or authoritarian. Its quality depends on institutions.
+
+Taken together, this week’s twelve pieces circle the same underlying issue from different directions.
+
+High public debt tests the boundary between markets and the state. China’s uneven growth tests whether industrial strength can coexist with weak household demand. Japanese automakers are discovering that industrial leadership requires organizational adaptation as software becomes infrastructure.
+
+In geopolitics, Europe’s defense burden, China’s relationship with the Global South, and climate-driven changes in strategic geography all challenge inherited assumptions about how power is organized.
+
+In technology, theoretical computer science reminds us that the deepest questions are not reducible to products, while cloud sovereignty and data centers expose the physical and institutional foundations beneath apparently digital systems.
+
+And in society, the time tax and Shenzhen’s technology tourism show two very different ways institutions become visible in everyday life: one through friction and administrative burden, the other through spectacle, convenience, and urban identity.
+
+The thread connecting them is capacity with legitimacy.
+
+A government can suppress borrowing costs, but can it do so without undermining trust? A state can build strategic industries, but can it spread the gains widely enough to support domestic demand? A country can seek digital sovereignty, but does it control the deeper technology stack? A democracy can pursue industrial policy, but can it build institutions that learn rather than simply distribute subsidies?
+
+Those are harder questions than whether markets are good or states are good, whether globalization is ending, or whether technology is advancing.
+
+They ask how institutions convert resources into durable capability, and whether the people living inside those institutions experience the result as competent, fair, and legitimate.
 
 That is Worldview Weekly for August twenty-ninth, twenty twenty-six.
