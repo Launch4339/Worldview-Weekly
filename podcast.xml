@@ -7,10 +7,17 @@
     <language>en-us</language>
     <itunes:author>Worldview Weekly</itunes:author>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Sat, 29 Aug 2026 21:30:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 05:59:42 +0000</lastBuildDate>
     <item>
-      <title>Worldview Weekly — August 29, 2026</title>
-      <description>Worldview Weekly. August twenty-ninth, twenty twenty-six. This edition keeps the same twelve selected articles from the corrected August twenty-ninth issue, but restores the fuller audio treatment. The goal is not a sequence of headlines. It is to preserve the substance of each article: the argument, the evidence, the tradeoffs, and the institutional questions that make the piece worth reading. The issue moves through four connected themes. First, governments and firms under financial and industrial pressure. Second, a geopolitical order in which alliances, climate, and the Global South are all being renegotiated. Third, technology as infrastructure rather than gadgetry. And fourth, the way …</description>
+      <title>Worldview Weekly — September 6, 2026</title>
+      <description>Worldview Weekly. September sixth, twenty twenty-six. This is an out-of-cycle refresh built around one practical rule: every written item in this issue has a reading path that is actually usable. No Financial Times links, no knowingly dead paywalls, and no assumption that an article is useful merely because it can be summarized. The written feed is for reading. The audio is for understanding the full shape of the issue when you do not want to work through twelve separate articles. The twelve selections come from eight publications. They move through four linked questions. First, what happens when governments rediscover that money is expensive and industrial resilience is not free? Second, ho…</description>
+      <pubDate>Sun, 06 Sep 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">worldview-weekly-2026-09-06-20713965</guid>
+      <enclosure url="https://raw.githubusercontent.com/Launch4339/Worldview-Weekly/main/audio/episodes/2026-09-06.mp3?v=20713965" length="20713965" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Worldview Weekly — 2026-08-29</title>
+      <description>A previous Worldview Weekly audio edition.</description>
       <pubDate>Sat, 29 Aug 2026 17:00:00 +0000</pubDate>
       <guid isPermaLink="false">worldview-weekly-2026-08-29-17609709</guid>
       <enclosure url="https://raw.githubusercontent.com/Launch4339/Worldview-Weekly/main/audio/episodes/2026-08-29.mp3?v=17609709" length="17609709" type="audio/mpeg" />
