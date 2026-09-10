@@ -7,10 +7,17 @@
     <language>en-us</language>
     <itunes:author>Worldview Weekly</itunes:author>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Mon, 07 Sep 2026 05:59:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 17:58:42 +0000</lastBuildDate>
     <item>
-      <title>Worldview Weekly — September 6, 2026</title>
-      <description>Worldview Weekly. September sixth, twenty twenty-six. This is an out-of-cycle refresh built around one practical rule: every written item in this issue has a reading path that is actually usable. No Financial Times links, no knowingly dead paywalls, and no assumption that an article is useful merely because it can be summarized. The written feed is for reading. The audio is for understanding the full shape of the issue when you do not want to work through twelve separate articles. The twelve selections come from eight publications. They move through four linked questions. First, what happens when governments rediscover that money is expensive and industrial resilience is not free? Second, ho…</description>
+      <title>Worldview Weekly — September 10, 2026</title>
+      <description>Worldview Weekly. September tenth, twenty twenty-six. This week’s issue is organized around a recurring tension in global affairs: the difference between trying to control a system and understanding how the system adapts. That tension appears in manufacturing policy, where governments can move tariffs, subsidies, and supply chains but cannot easily reverse the productivity forces reducing industrial employment. It appears in geopolitics, where sanctions can inflict severe economic pain without necessarily producing political capitulation, and where loose institutions such as BRICS can matter even without becoming coherent alliances. It appears in technology, where computing is becoming more …</description>
+      <pubDate>Thu, 10 Sep 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">worldview-weekly-2026-09-10-14717805</guid>
+      <enclosure url="https://raw.githubusercontent.com/Launch4339/Worldview-Weekly/main/audio/episodes/2026-09-10.mp3?v=14717805" length="14717805" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Worldview Weekly — 2026-09-06</title>
+      <description>A previous Worldview Weekly audio edition.</description>
       <pubDate>Sun, 06 Sep 2026 17:00:00 +0000</pubDate>
       <guid isPermaLink="false">worldview-weekly-2026-09-06-20713965</guid>
       <enclosure url="https://raw.githubusercontent.com/Launch4339/Worldview-Weekly/main/audio/episodes/2026-09-06.mp3?v=20713965" length="20713965" type="audio/mpeg" />
