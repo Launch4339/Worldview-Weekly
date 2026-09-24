@@ -1,0 +1,81 @@
+Eleventh, G. Venkat Raman at the Lowy Institute argues that “decoupling from China” describes several different strategies that have very different economics.
+
+Japanese manufacturers are moving portions of production toward Southeast Asia and India, but many still maintain substantial operations in China. That is not necessarily indecision. China’s supplier depth, engineering skills, scale, and logistics remain commercially valuable even when firms want less geopolitical concentration.
+
+Chinese manufacturers face the mirror image of the problem as they expand abroad. Tariffs and localization rules encourage final assembly in Europe or other markets, but competitiveness often depends on suppliers that grew up around the Chinese manufacturing base. When those suppliers follow lead firms overseas, host governments have to decide whether they are receiving genuine industrial development or simply a geographically relocated Chinese production network.
+
+The article then describes a harder form of de-risking in which national-security concerns outrun normal commercial logic. A firm may seek not only to avoid components made in China, but to remove Chinese exposure from suppliers’ personnel, equipment, software, or sub-suppliers.
+
+At that point, the verification problem becomes recursive. Every supplier has suppliers. Every piece of machinery has its own components and software. The more deeply a company tries to prove the absence of a connection, the more expensive monitoring becomes, without ever producing absolute certainty.
+
+This creates a spectrum.
+
+Diversification says: do not depend too heavily on one location.
+
+Localization says: if foreign firms want access to a market, require more value to be created locally.
+
+De-Sinification says: remove Chinese exposure even when it sits several layers behind the final product.
+
+Those policies should not be evaluated with the same metric. Diversification can reduce concentration risk while preserving much of an efficient network. Localization is partly an industrial-policy bargain over who captures learning and supplier growth. Complete exclusion treats national security as dominant and accepts potentially large efficiency costs.
+
+The broadening point is simple but important: a factory is not a supply chain. Moving final assembly is often much easier than moving the ecosystem that makes production competitive.
+
+Twelfth, CommonWealth examines the energy constraint behind Taiwan’s AI and semiconductor ambitions.
+
+The article begins with two coal plants moving in opposite directions.
+
+At Hua Ya, a cogeneration facility serving a major technology cluster, multinational customers have been leaving because the coal-fired electricity has a carbon intensity roughly twice the average of Taiwan Power’s grid. Companies such as semiconductor and electronics firms carry their own decarbonization commitments, so cheap or reliable power is no longer sufficient if it makes their emissions targets harder to meet.
+
+At the Heping power plant on Taiwan’s east coast, the owners have reasons to reduce exposure to coal, but Taiwan Power does not want the plant to disappear. It is a large source of baseload power for the northern and eastern grid, where replacement capacity and transmission are constrained.
+
+These two cases capture the policy problem. Coal can be commercially unattractive to customers trying to decarbonize and simultaneously operationally valuable to a grid trying to avoid shortages.
+
+Taiwan’s earlier energy-transition plan aimed to bring coal down to thirty percent of generation by twenty twenty-five. The actual share was thirty-five point three percent. Meanwhile, the Ministry of Economic Affairs expects electricity demand to grow about two point five percent annually over the coming decade, around twice the previous decade’s average. AI data centers and semiconductor investment are part of that increase.
+
+Other constraints compound the demand shock. Some gas-fired generation and grid projects are arriving more slowly than expected. Geopolitical disruption increases the value of having multiple fuel options. Renewable build-out and storage take time. And debates over restarting nuclear capacity matter, but cannot instantly solve regional transmission constraints or every hour of future demand.
+
+The article therefore avoids a false choice between “coal forever” and “one technology fixes everything.”
+
+Energy systems have several objectives at once: reliability, cost, carbon intensity, fuel security, regional grid stability, construction speed, and political acceptability. Improving one can worsen another in the short run.
+
+Taiwan’s situation is especially revealing because the electricity demand is tied to industries that are themselves strategically and economically important. The same semiconductor and AI supply chains that governments want Taiwan to expand also intensify the power-system problem. At the same time, global customers are pressuring those industries to lower carbon emissions.
+
+This creates a three-way constraint: produce more electricity, make it reliable, and make it cleaner—fast enough that industrial growth does not outrun the transition.
+
+The comparison with the first article in this issue is useful. In the United States, the question is who pays for data-center-driven grid expansion. In Taiwan, the question is which generation technologies and grid assets can expand quickly enough without locking in emissions that customers increasingly reject.
+
+AI is therefore not only a software or labor story. It is becoming an energy-policy story, and the politics will differ by grid structure.
+
+Closing synthesis.
+
+Across these twelve pieces, four distinctions are worth keeping.
+
+First, a private decision can become a system cost.
+
+A technology company chooses a data-center location, but local households may help finance the electrical upgrades. A manufacturer chooses a labor broker, but the resulting recruitment debt can become a customs and market-access problem for an entire industry. A company moves final assembly out of China, but the supplier network may remain geographically and institutionally tied to China.
+
+The analytical move is to follow the externality beyond the decision maker.
+
+Second, nominal policy categories can hide structural effects.
+
+An exchange rate sounds like macroeconomics, but persistent undervaluation can change firm entry, exit, and supplier networks. An import restriction sounds like trade policy, but forced-labor enforcement can transform recruitment practices and worker grievance systems. An AI law sounds like technology policy, but the real question may be how ordinary doctrines of agency and liability allocate responsibility.
+
+The label on the policy matters less than the institutional behavior it changes.
+
+Third, capacity and legitimacy have to fit each other.
+
+The anti-Houthi camp in Yemen has forces but lacks enough coherent command. The United Nations has a very broad mandate but shrinking political and financial support. Authoritarian states gain technical surveillance capacity, but citizens and activists gain new tools too. A legal system can assign responsibility only if its categories still match how decisions are actually made.
+
+Institutions fail not only from insufficient power. They can also fail when authority, resources, and mission are mismatched.
+
+Fourth, transitions are usually constrained by inherited systems.
+
+Classical biological networks may reproduce quantumlike mathematics without becoming quantum. Genomes repurpose ancient mobile elements rather than starting clean. Small businesses layer AI onto existing human practices. Taiwan cannot redesign its electricity mix overnight. Supply chains cannot be moved as easily as final assembly lines.
+
+The inherited system is not merely an obstacle. It is the material from which the next system is built.
+
+That is the strongest counterweight running through this week’s reading: resist stories in which a policy, technology, or geopolitical event jumps directly to its final outcome. Look for the middle layer. Who adapts? Who exits? Who pays? Which capability is scarce? What infrastructure must be rebuilt? What institution must accept responsibility?
+
+Those questions make the world look less clean, but more intelligible.
+
+That is Worldview Weekly for September twenty-fourth, twenty twenty-six. The written feed contains the twelve reading links, concise summaries, access notes where needed, and the full source-level routes.

@@ -1,101 +1,108 @@
 from __future__ import annotations
 
-import os
 import re
+import shutil
 import subprocess
-from datetime import datetime, timezone
-from email.utils import format_datetime
 from pathlib import Path
-from xml.sax.saxutils import escape
-
-import numpy as np
-import soundfile as sf
-from kokoro import KPipeline
 
 ROOT = Path(__file__).resolve().parents[1]
-SCRIPT = ROOT / "audio" / "current.txt"
-EPISODES = ROOT / "audio" / "episodes"
-PODCAST = ROOT / "podcast.xml"
-VOICE = os.environ.get("KOKORO_VOICE", "af_heart")
-SPEED = float(os.environ.get("KOKORO_SPEED", "1.0"))
-BASE = "https://raw.githubusercontent.com/Launch4339/Worldview-Weekly/main"
+STAGE = ROOT / "staging" / "2026-09-24"
+FEED = ROOT / "worldview-weekly.xml"
+AUDIO = ROOT / "audio" / "current.txt"
+ORIGINAL = STAGE / "build_audio_original.py"
+GUID = "worldview-2026-09-24-cepr-datacentres-electricity"
+BUILD_DATE = "Thu, 24 Sep 2026 17:30:00 GMT"
 
 
-def parse_script(text: str):
-    date_m = re.search(r"^DATE:\s*(\d{4}-\d{2}-\d{2})\s*$", text, re.M)
-    title_m = re.search(r"^TITLE:\s*(.+?)\s*$", text, re.M)
-    if not date_m:
-        raise SystemExit("audio/current.txt must contain DATE: YYYY-MM-DD")
-    date = date_m.group(1)
-    title = title_m.group(1).strip() if title_m else f"Worldview Weekly — {date}"
-    body = re.sub(r"^(DATE|TITLE):.*$", "", text, flags=re.M).strip()
-    if not body:
-        raise SystemExit("audio/current.txt contains no narration body")
-    return date, title, body
+def run(*args: str) -> None:
+    subprocess.run(list(args), cwd=ROOT, check=True)
 
 
-def synthesize(text: str, wav_path: Path):
-    pipeline = KPipeline(lang_code="a")
-    chunks = []
-    silence = np.zeros(int(24000 * 0.35), dtype=np.float32)
-    for _gs, _ps, audio in pipeline(text, voice=VOICE, speed=SPEED, split_pattern=r"\n+"):
-        if audio is None:
-            continue
-        chunks.append(np.asarray(audio, dtype=np.float32))
-        chunks.append(silence)
-    if not chunks:
-        raise SystemExit("Kokoro produced no audio")
-    merged = np.concatenate(chunks)
-    sf.write(wav_path, merged, 24000, subtype="PCM_16")
+def assemble() -> None:
+    feed = FEED.read_text(encoding="utf-8")
+    if GUID not in feed:
+        fragments = "".join(
+            p.read_text(encoding="utf-8")
+            for p in sorted(STAGE.glob("feed-*.xml"))
+        )
+        feed = re.sub(
+            r"<lastBuildDate>[^<]*</lastBuildDate>",
+            f"<lastBuildDate>{BUILD_DATE}</lastBuildDate>",
+            feed,
+            count=1,
+        )
+        marker = f"<lastBuildDate>{BUILD_DATE}</lastBuildDate>"
+        if marker not in feed:
+            raise SystemExit("Could not update worldview-weekly.xml lastBuildDate")
+        feed = feed.replace(marker, marker + "\n\n" + fragments, 1)
+        if feed.count("worldview-2026-09-24-") != 12:
+            raise SystemExit("Expected exactly 12 Sep 24 reading items")
+        FEED.write_text(feed, encoding="utf-8")
+
+    audio = "".join(
+        p.read_text(encoding="utf-8")
+        for p in sorted(STAGE.glob("audio-*.txt"))
+    )
+    expected = (
+        "DATE: 2026-09-24\n"
+        "TITLE: Worldview Weekly — September 24, 2026\n"
+    )
+    if not audio.startswith(expected):
+        raise SystemExit("Narration header mismatch")
+    AUDIO.write_text(audio, encoding="utf-8")
 
 
-def make_mp3(wav_path: Path, mp3_path: Path):
-    subprocess.run([
-        "ffmpeg", "-y", "-loglevel", "error", "-i", str(wav_path),
-        "-ar", "24000", "-ac", "1", "-b:a", "64k", str(mp3_path)
-    ], check=True)
+def run_original_builder() -> None:
+    source = ORIGINAL.read_text(encoding="utf-8")
+    ns = {
+        "__name__": "worldview_original_builder",
+        "__file__": str(ROOT / "scripts" / "build_audio.py"),
+    }
+    exec(compile(source, str(ROOT / "scripts" / "build_audio.py"), "exec"), ns)
+    ns["main"]()
 
 
-def build_feed(current_date: str, current_title: str, description: str):
-    files = sorted(EPISODES.glob("*.mp3"), reverse=True)
-    for old in files[8:]:
-        old.unlink()
-    files = files[:8]
+def finalize_inputs() -> None:
+    # Restore the canonical builder and remove all one-run staging material.
+    shutil.copyfile(ORIGINAL, ROOT / "scripts" / "build_audio.py")
+    shutil.rmtree(STAGE)
 
-    now = format_datetime(datetime.now(timezone.utc))
-    items = []
-    for f in files:
-        date = f.stem
-        try:
-            dt = datetime.strptime(date, "%Y-%m-%d").replace(hour=17, tzinfo=timezone.utc)
-            pub = format_datetime(dt)
-        except ValueError:
-            pub = now
-        title = current_title if date == current_date else f"Worldview Weekly — {date}"
-        desc = description if date == current_date else "A previous Worldview Weekly audio edition."
-        url = f"{BASE}/audio/episodes/{f.name}?v={f.stat().st_size}"
-        items.append(f"""    <item>\n      <title>{escape(title)}</title>\n      <description>{escape(desc)}</description>\n      <pubDate>{pub}</pubDate>\n      <guid isPermaLink=\"false\">worldview-weekly-{date}-{f.stat().st_size}</guid>\n      <enclosure url=\"{escape(url)}\" length=\"{f.stat().st_size}\" type=\"audio/mpeg\" />\n    </item>""")
+    # Validate the two publication surfaces before recording the source commit.
+    import xml.etree.ElementTree as ET
+    ET.parse(FEED)
+    ET.parse(ROOT / "podcast.xml")
+    if not (ROOT / "audio" / "episodes" / "2026-09-24.mp3").exists():
+        raise SystemExit("Expected Sep 24 MP3 was not generated")
+    if "2026-09-24" not in (ROOT / "podcast.xml").read_text(encoding="utf-8"):
+        raise SystemExit("Podcast feed missing Sep 24 episode")
 
-    xml = f"""<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<rss version=\"2.0\" xmlns:itunes=\"http://www.itunes.com/dtds/podcast-1.0.dtd\">\n  <channel>\n    <title>Worldview Weekly Audio</title>\n    <link>https://github.com/Launch4339/Worldview-Weekly</link>\n    <description>A low-noise weekly global counterweight to The Economist, synthesized for listening.</description>\n    <language>en-us</language>\n    <itunes:author>Worldview Weekly</itunes:author>\n    <itunes:explicit>false</itunes:explicit>\n    <lastBuildDate>{now}</lastBuildDate>\n{chr(10).join(items)}\n  </channel>\n</rss>\n"""
-    PODCAST.write_text(xml, encoding="utf-8")
+    run("git", "config", "user.name", "github-actions[bot]")
+    run(
+        "git",
+        "config",
+        "user.email",
+        "41898282+github-actions[bot]@users.noreply.github.com",
+    )
+    run(
+        "git",
+        "add",
+        "worldview-weekly.xml",
+        "audio/current.txt",
+        "scripts/build_audio.py",
+        "staging/2026-09-24",
+    )
+    status = subprocess.run(
+        ["git", "diff", "--cached", "--quiet"],
+        cwd=ROOT,
+    ).returncode
+    if status != 0:
+        run("git", "commit", "-m", "Publish Worldview Weekly for 2026-09-24")
 
 
-def main():
-    text = SCRIPT.read_text(encoding="utf-8")
-    date, title, body = parse_script(text)
-    EPISODES.mkdir(parents=True, exist_ok=True)
-    mp3 = EPISODES / f"{date}.mp3"
-    wav = EPISODES / f"{date}.wav"
-
-    # Always regenerate the current episode. This ensures changes to the script,
-    # selected voice, or speed actually replace a prior test file for the same date.
-    synthesize(body, wav)
-    make_mp3(wav, mp3)
-    wav.unlink(missing_ok=True)
-
-    clean = re.sub(r"\s+", " ", body)
-    desc = clean[:700] + ("…" if len(clean) > 700 else "")
-    build_feed(date, title, desc)
+def main() -> None:
+    assemble()
+    run_original_builder()
+    finalize_inputs()
 
 
 if __name__ == "__main__":

@@ -1,0 +1,62 @@
+DATE: 2026-09-24
+TITLE: Worldview Weekly — September 24, 2026
+
+Worldview Weekly for September twenty-fourth, twenty twenty-six.
+
+This week’s issue is organized around a recurring question: when a system changes quickly, who actually absorbs the transition cost?
+
+That question appears in places that at first look unrelated. Artificial-intelligence data centers create valuable computing capacity, but the cost of expanding the electrical system can land on households. Supply-chain rules aimed at human rights can turn migrant recruitment practices into a condition of market access. Currency policy can change which firms enter, exit, and survive long enough to anchor an industrial ecosystem. A military advance in Yemen can alter shipping risk far beyond Yemen. A shrinking United Nations has to decide which functions it can still perform credibly. And new forms of artificial intelligence create legal and political capacities faster than institutions can decide where responsibility belongs.
+
+The point is not that every story is secretly the same. It is that the useful unit of analysis is often the mechanism between headline and outcome. Investment is not the same as who pays. Regulation is not the same as compliance capacity. A military map is not the same as control of trade routes. A new technology is not the same as a new institution. This week’s pieces are strongest when they make that intermediate layer visible.
+
+Business, economics, and political economy.
+
+First, a new CEPR and VoxEU column by Cameron Scalera, Valentina Bosetti, and Filippo Pecci asks a very concrete question about the AI boom: how do data centers affect electricity prices, and who pays?
+
+The background is familiar. U.S. residential electricity prices rose substantially between twenty twenty and twenty twenty-five, while data-center construction accelerated sharply. But correlation is not enough, because data centers do not choose locations randomly. They favor places with fiber, cheap land, suitable zoning, and attractive power conditions. A simple comparison between areas with many data centers and areas with few would mix cause and selection.
+
+The authors therefore work at the level where retail rates are actually set: utility service territories. They match roughly twelve hundred utility territories with a panel of about twenty-seven hundred operational data centers, and use pre-existing fiber infrastructure to help isolate where the post-twenty-twenty-one construction surge was most likely to land.
+
+Their estimate is economically meaningful. An additional data center raises residential electricity prices, and the household effect is larger than the effect on commercial or industrial customers. In their preferred specification, ten additional facilities—a one-standard-deviation increase in the post-AI stock—raise residential prices by roughly thirteen percent relative to the post-AI mean. A large hyperscale facility has a larger effect. They also find that new facilities add to summer peak demand and prompt additional distribution investment.
+
+The most interesting result is institutional. In territories served by nonprofit utilities—cooperatives, municipal utilities, and state-operated providers—the residential price effect is close to zero. Effects are also smaller where utilities had spare energy before the boom. That does not prove that nonprofit ownership is universally superior, and the authors are careful about limits to causal interpretation for some of these subgroup results. But it does show that the incidence of an infrastructure shock depends on market design and spare capacity, not only on megawatts.
+
+This gives a better frame for the politics of data centers. The gains from AI may be national or global and concentrated among firms, investors, and workers who use the technology intensively. The costs of a new substation, transmission upgrade, or expensive peak-hour generation can be local and highly visible. Lower-income households also spend a larger share of income on electricity. So opposition to data centers cannot be dismissed as simple resistance to progress.
+
+The authors’ policy recommendations follow from the mechanism. Expand generation and grid capacity. Encourage large loads that can shift consumption away from stressed hours. And design tariffs so that customers creating exceptional infrastructure needs bear a larger share of those costs.
+
+This broadens the AI debate because it moves one layer down from compute capacity. A data center is not merely a private investment project. It is also a claim on a shared network. Whether that claim becomes socially expensive depends on the rules that allocate the cost.
+
+Second, CommonWealth in Taiwan follows the labor-governance consequences of a U.S. customs action against Giant, the bicycle manufacturer.
+
+A year ago, U.S. Customs and Border Protection issued a Withhold Release Order against bicycles and parts made at Giant’s Taiwan operations, citing indicators associated with forced labor. Giant estimated that the affected business represented roughly four to five percent of group revenue.
+
+The immediate corporate response was expensive but straightforward. Giant created a senior-level response team, refunded recruitment and related fees paid by migrant workers, expanded a zero-recruitment-fee policy, and moved hundreds of workers out of older dormitories. Its sustainability reporting says fee refunds and related costs reached roughly one hundred million New Taiwan dollars.
+
+The more important part of the article is what happened outside Giant.
+
+Taiwan’s bicycle industry began treating labor due diligence as a sector-wide exposure rather than one company’s compliance problem. The industry association encouraged human-rights due diligence, discussed third-party grievance channels, and began talking directly with organizations that serve migrant workers. By September, the association estimated that participating firms represented more than eighty percent of bicycle export value.
+
+That matters because traditional supplier audits often examine documents, facilities, and formal policies. But migrant-worker vulnerability can arise earlier and elsewhere: fees paid to labor brokers in the worker’s home country, debt incurred to obtain a job, wage retention, housing conditions, overtime practices, or the absence of a trusted complaint channel. A company can change a written policy without knowing whether workers actually experience the change.
+
+The regulatory pressure is also becoming less American. The European Union’s Forced Labour Regulation is due to apply from December twenty twenty-seven, barring products made with forced labor from the EU market. European customers therefore have their own incentive to ask suppliers for evidence, not promises.
+
+The counterweight here is to a familiar supply-chain narrative that focuses almost entirely on tariffs, semiconductors, industrial subsidies, and strategic dependence on China. Market access is increasingly shaped by labor governance too. Recruitment fees, dormitories, grievance mechanisms, and treatment of migrant workers are becoming elements of export competitiveness.
+
+And this is a particularly useful Asian perspective because Taiwan’s manufacturing model relies heavily on migrant labor in industries that are deeply integrated into Western consumer markets. Compliance is not an abstract ESG layer sitting on top of production. It is becoming part of the production system itself.
+
+Third, another CEPR and VoxEU column asks whether exchange-rate policy can permanently reshape supply chains.
+
+Paul Bergin, Woo Jin Choi, and Ju Hyun Pyun start from a puzzle. Textbook analysis often treats currency undervaluation as a relative-price change. It makes exports cheaper, imports more expensive, and affects trade while the policy persists. But if firms can enter and exit, and supplier relationships take time to build, a temporary or sustained price advantage can alter the industrial structure that exists afterward.
+
+Using evidence from forty-five countries, the authors associate sustained currency undervaluation—supported by reserve accumulation under capital controls—with higher manufacturing employment, more firm entry, and greater domestic sourcing of intermediate inputs.
+
+Their model explains why the effect can persist. A policy that makes domestic production more attractive encourages new firms to enter. It can also make foreign suppliers less competitive. If some foreign firms exit, rebuilding them later is costly or impossible. Supply chains have hysteresis: history matters because the set of firms available today depends on yesterday’s profitability.
+
+This is important because it blurs the clean line between macroeconomic policy and industrial policy. An exchange rate looks like a broad price. But if it changes which producers survive long enough to accumulate know-how, supplier relationships, and scale, then it can function as a structural intervention.
+
+The caveat is equally important. The result is not a universal recipe for cheap-currency growth. Reserve accumulation has costs. Capital controls have costs. Trading partners react. And the effect on another country depends on whether its firms merely lose sales or actually exit. But the mechanism helps explain why arguments about persistent current-account imbalances are not only arguments about accounting identities. They can also be arguments about industrial geography.
+
+The three economic pieces together suggest a useful distinction. Prices can reorganize institutions when they persist long enough. Electricity prices shape the politics of AI infrastructure. Labor standards shape access to export markets. Exchange rates shape entry, exit, and supplier networks. The durable outcome is not just the initial price change. It is the structure that forms around it.
+
+Global politics, institutions, and geopolitics.

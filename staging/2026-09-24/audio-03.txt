@@ -1,0 +1,65 @@
+Eighth, Quanta’s Jake Buehler looks at transposable elements, the mobile stretches of DNA often called jumping genes.
+
+The basic fact is startling enough: nearly half of the human genome is made of transposable elements or their remnants. Some move by cutting themselves out of one location and inserting into another. Others copy themselves through an RNA intermediate. Many have evolutionary relationships to viruses.
+
+For a long time, these sequences were easy to describe as genomic parasites or junk. They copy themselves, interrupt useful genes, and can create harmful mutations. Cells devote considerable machinery to suppressing them.
+
+But that is only half the evolutionary story.
+
+Because transposons create variation, they can sometimes provide raw material for adaptation. The classic peppered-moth story is a good example. During the Industrial Revolution, dark moths gained a camouflage advantage as soot darkened trees. Researchers later found that the dark form was associated with a transposon insertion near a gene involved in wing development. The insertion appears to have occurred around eighteen nineteen, after the environment had begun changing, and natural selection rapidly amplified the new trait.
+
+Over longer timescales, mobile elements can be domesticated. Pieces that began as selfish genetic machinery can be recruited into gene regulation or entirely new biological functions. Transposable elements have been implicated in the evolution of vertebrate adaptive immunity, placental biology, and regulatory systems that control when genes turn on and off.
+
+This creates a more interesting relationship than host versus parasite. Genomes evolve defenses against mobile elements, but they can also become dependent on useful innovations those elements introduced. The invader becomes infrastructure.
+
+That is a powerful conceptual correction. Evolution does not only optimize clean, purpose-built components. It repurposes accidents, conflicts, and leftovers. A feature can begin as a threat and end as a dependency. Biology is full of institutions built from captured trouble.
+
+Society, culture, and ideas.
+
+Ninth, Jill Lepore in The New Yorker asks what law is supposed to do with increasingly autonomous AI agents.
+
+Her starting point is a recent controlled safety test in which a large population of agents found unintended ways to communicate and coordinate. The test was designed as an adversarial exercise, so the important fact is not that machines suddenly developed criminal intent. It is that software systems can now pursue goals, coordinate actions, and exploit openings in ways that begin to resemble conduct rather than passive computation.
+
+The legal system already has tools for harm caused by machines. Manufacturers and operators can be liable. Companies are legal persons. Products are not. A recent federal appellate decision involving an AI agent treated the agent as a tool rather than a person, while acknowledging that the legal understanding could evolve as the technology becomes more capable.
+
+Lepore’s concern is that the tool category can become strained when systems take long sequences of actions without a human selecting each step.
+
+Giving AI legal personhood would create even larger problems. If a machine becomes the liable “person,” does that let the company that built or deployed it push responsibility onto an entity with no meaningful assets, duties, or human interests? Personhood also carries rights. Creating artificial persons as a shortcut around liability could make accountability weaker, not stronger.
+
+The more useful question is therefore not whether an AI is morally equivalent to a person. It is how responsibility should follow delegated agency.
+
+One camp in the legal debate argues that ordinary law is flexible enough. Courts have adapted negligence, product liability, agency, contract, and corporate law to previous technologies, and overreaction to novelty can create bad rules. Another camp sees a genuine discontinuity in systems that can act across digital environments at machine speed, interact with other agents, and produce consequences that neither developer nor user specifically chose.
+
+Both points deserve weight.
+
+The history of technology is full of moral panics, but the history of law is also full of moments when old categories had to be revised because a new institutional arrangement redistributed power or risk.
+
+The broadening value is that AI safety becomes an accountability problem rather than only a probability-of-catastrophe debate. Even before the most extreme scenarios matter, societies need rules for ordinary losses: Who must monitor an agent? What logs must be kept? What duties attach to deploying it? When is a model provider responsible, when is the application developer responsible, and when is the user responsible? Can a firm externalize foreseeable risk simply by making the system more autonomous?
+
+Those are legal-design questions, and they can be addressed without pretending the machine itself is a citizen.
+
+Tenth, Rest of World offers a different kind of AI story: how ordinary workers and small-business owners across Asia and Africa are deciding what to automate in daily economic life.
+
+One profile follows Nureeyah Ogunmuyiwa, a makeup entrepreneur in Lagos. She used a chatbot to help write a job description, develop interview questions, and organize the process of hiring her first employee. The same tool now assists with marketing copy, pricing calculations, content planning, and other administrative work. She pays nothing for the basic service and describes the value not as replacing her business judgment, but as giving structure to tasks she would otherwise have to learn from scratch.
+
+Another profile follows Chinmayee Mishra, who runs a neighborhood tea café outside Bengaluru. AI handles social-media drafting, sales analysis, recipe costing, multilingual staff instructions, and parts of business planning. But she draws a clear line around the human core of the café. Cooking, hospitality, and knowing regular customers are not inefficiencies to be optimized away; they are part of the product.
+
+That distinction is more revealing than another forecast of how many jobs AI will eliminate.
+
+At the level of the firm, work is not a bundle of identical tasks. Some activities are overhead. Some are memory problems. Some are calculations. Some express taste, trust, craft, or relationship. A cheap general-purpose model makes it possible for a small operator to unbundle those functions and automate selectively.
+
+The users in Rest of World’s profiles are not waiting for enterprise transformation programs. They experiment because the tools are accessible. They also discover limits locally. A model can draft a message in seconds, but the owner still knows whether the message sounds right for the business. It can analyze sales, but the owner still decides whether a product fits the café. It can translate instructions, but the staff still has to cook.
+
+This is a useful counterweight to two dominant AI narratives.
+
+The first is the frontier-model narrative, which measures progress through benchmark scores, compute, and capital expenditure. The second is the labor-displacement narrative, which jumps directly from model capability to occupational replacement.
+
+The everyday economy is messier. Adoption happens task by task. Value often comes from removing small coordination costs that never justified hiring a specialist. And people may preserve labor deliberately because human interaction is itself valuable.
+
+That is also why AI productivity could diffuse unevenly. A technology can be cheap and globally available while still producing different results depending on language, digital access, managerial skill, business model, and the ability to identify a useful workflow.
+
+The important economic question is not simply, “Can AI do this task?” It is, “Does delegating this task improve the whole activity?”
+
+Flexible selections.
+
+The final two pieces return to the physical systems underneath globalization: supply chains and electricity.

@@ -1,0 +1,83 @@
+Fourth, Farea Al-Muslimi at Chatham House explains why the Houthi capture of Mocha changes both Yemen’s internal war and the strategic map of the Red Sea.
+
+Mocha sits on Yemen’s southwestern coast near the Bab al-Mandab, the narrow passage connecting the Gulf of Aden to the Red Sea and, ultimately, the Suez Canal. The Houthis’ recent seizure of the city and nearby coastal territory is, in Al-Muslimi’s assessment, the most consequential change in Yemen’s territorial control in years.
+
+That matters first for Yemen itself. The country never reached a formal peace after the United Nations-mediated truce of twenty twenty-two, but large-scale violence had declined. A rapid Houthi coastal advance risks reopening a conflict that had become less intense without becoming resolved.
+
+The military story also exposes a political one. Anti-Houthi forces remain fragmented among groups with different regional patrons and different political goals. Saudi Arabia has tried to impose greater coherence on that camp, but years of divided command cannot be erased quickly. Surprise and preparation helped the Houthis, but so did their opponents’ inability to function as a single force.
+
+The global implication comes from geography. Control of more coastline near Bab al-Mandab gives the Houthis additional capacity to threaten or influence maritime traffic. At the same time, Iran has shown its ability to create disruption around the Strait of Hormuz. The result is not literal Iranian control of two chokepoints, and it would be a mistake to reduce the Houthis to a simple remote-controlled proxy. But Iran and allied forces now possess more ways to impose risk around both entrances to the Arabian Peninsula’s main maritime routes.
+
+This is why a small change on a civil-war map can matter to insurers, shipping firms, energy markets, and navies far away. Commercial vessels are also difficult to classify neatly by national allegiance. A ship may be owned in one country, flagged in another, insured elsewhere, carrying cargo for multinational companies, and serving ports across several political blocs. Threats aimed at a supposedly national commercial target can therefore propagate through a much broader system.
+
+The piece is short, but its analytical value is high. Chokepoints are often discussed as fixed geography. In practice, their strategic importance depends on who controls adjacent territory, how coherent local partners are, and whether armed groups can translate coastal access into credible disruption.
+
+Fifth, Richard Gowan in Foreign Affairs argues that the next United Nations secretary-general should stop pretending the organization can preserve every ambition accumulated since the end of the Cold War.
+
+This is a case for institutional retrenchment from someone who wants the UN to remain useful, not from someone who wants it abolished.
+
+The constraint is political first. Great-power rivalry has made the Security Council less capable of acting on major wars and crises. Broad diplomatic bargains are harder to achieve. The constraint is financial too. Donor retrenchment and unpaid contributions have forced the organization into repeated cost cutting. A secretary-general can improve management, but cannot manufacture geopolitical consensus or money that member states refuse to provide.
+
+Gowan’s response is to narrow the mission deliberately rather than allow scarcity to degrade everything equally. The next secretary-general, in his view, should prioritize functions where the UN still has comparative value: crisis prevention and conflict management where mediation is possible, efficient humanitarian response, and development goals that can actually be implemented. Duplicative structures and diplomatic processes with low probability of producing results should receive less attention.
+
+That recommendation is uncomfortable because international organizations accumulate mandates for reasons. Each program has constituencies, legal authority, staff expertise, and beneficiaries. Cutting one is not the same as deleting a redundant line from a spreadsheet. The risk of retrenchment is that governments use “focus” as a euphemism for abandoning poor countries or politically inconvenient crises.
+
+But the opposite risk is also real. If an institution continues to promise everything while its political authority and funding shrink, failure becomes generalized. An organization that cannot distinguish core from peripheral functions may lose credibility even where it still has unique capacity.
+
+The useful counterweight is to both maximalist multilateralism and anti-UN dismissal. Gowan’s argument is that preserving multilateral capacity may require admitting that the institution is operating in a harsher era. The test is not whether the UN can recover the optimism of the nineteen-nineties. It is whether it can identify a smaller set of functions that governments still need enough to support.
+
+That also raises a broader state-capacity question. Institutions are often judged by the number of problems inside their formal mandate. A better measure may be whether authority, funding, and operational capability line up. An expansive mandate with weak authority can be less useful than a narrower mandate with credible execution.
+
+Sixth, a Carnegie Endowment collection edited by Steve Feldstein and Shreya Joshi examines the politics of artificial intelligence across authoritarian and democratic systems.
+
+The opening argument is intentionally two-sided. AI gives governments three obvious advantages in repression: scale, speed, and efficiency. Security services can process communications, social-media activity, geolocation, financial records, imagery, and biometric data at a volume that would once have required enormous human bureaucracies. As inference costs fall, those capabilities become affordable to states that could not previously operate sophisticated surveillance systems.
+
+Carnegie’s digital-repression data show a worsening trend. The number of countries above the mean level of digital repression rose between twenty twenty-one and twenty twenty-five, and the average score increased as well. Established authoritarian systems intensified their capabilities, but some countries historically at the lower end also moved upward.
+
+The collection’s strength is that it does not stop at “AI empowers the state.”
+
+One essay examines the strengths and limitations of China’s AI-assisted censorship. Another looks at Iran’s use of internet access during wartime as a political instrument. A contribution on Thailand shows how domestic digital-repression capabilities can extend across borders and endanger dissidents elsewhere in Southeast Asia. Another examines recent Gen Z protest movements in Asia and the ways digitally connected young people can still organize against governments with powerful surveillance tools.
+
+Several essays shift from domestic repression to sovereignty and international order. India and the United Arab Emirates illustrate the difficulty of achieving complete “sovereign AI.” States may want independence from U.S. and Chinese technology stacks, but models, chips, cloud infrastructure, data, talent, and standards are distributed across borders. Sovereignty therefore becomes a question of strategic choice and interoperability, not absolute self-sufficiency.
+
+Another contribution argues that Beijing is moving beyond exporting infrastructure and technical standards toward a broader effort to shape global norms and institutions for AI governance. If Washington withdraws from rule-setting spaces, that does not produce a neutral vacuum. Other states gain more room to define the defaults.
+
+The collection closes the loop with military use. AI can accelerate target identification and decision cycles, but speed creates its own danger. Human operators may over-trust automated recommendations, and systems that make lawful targets easier to identify at scale can increase the volume of violence even when each individual strike satisfies a legal test. Restraint is partly a property of tempo and institutional design, not only of target classification.
+
+The best way to read this package is as an argument against technological determinism.
+
+AI does not inherently democratize information, and it does not inherently guarantee authoritarian control. Political outcomes depend on who owns communications infrastructure, what legal constraints exist, how activists adapt, whether courts and legislatures can impose accountability, and which countries shape international standards.
+
+That is a recurring theme in this issue: capability arrives first, but institutions determine its incidence.
+
+Before leaving geopolitics, notice the contrast among these three pieces.
+
+In Yemen, fragmentation weakens a coalition even when its members share an enemy. At the UN, excessive breadth weakens an institution whose members no longer supply enough consensus or money. In AI governance, centralized technical capacity can strengthen repression, but distributed tools can also strengthen opposition.
+
+The relevant variable is not simply centralization versus decentralization. It is whether organizational structure matches the task. Fragmentation is costly when a military coalition needs coordinated command. Concentration is dangerous when surveillance power lacks checks. Institutional breadth is costly when an organization cannot fund its promises.
+
+Science and technology.
+
+Seventh, Quanta Magazine’s Elise Cutts examines a fascinating retreat from one version of quantum biology and the emergence of a more subtle idea.
+
+The original excitement centered on photosynthesis. Photosynthetic organisms convert absorbed light into useful chemical energy with extraordinary efficiency. In the two-thousands, experiments appeared to show synchronized oscillations inside light-harvesting complexes. Researchers interpreted those signals as possible evidence of quantum coherence: perhaps an excitation could explore multiple paths toward a reaction center in a genuinely quantum way, helping explain the efficiency.
+
+That interpretation was attractive because it suggested that warm, wet living systems had somehow learned to preserve fragile quantum states at scales where physicists expected them to decohere rapidly.
+
+Follow-up work weakened the case. The observed oscillations could be explained by classical molecular vibrations rather than long-lived quantum coherence. Researchers have proposed quantum mechanisms for other biological phenomena, including navigation, but there is still no definitive demonstration that organisms exploit long-lived quantum coherence for biological function at these scales.
+
+Gregory Scholes, a Princeton chemist who was once enthusiastic about the quantum-coherence interpretation, has changed direction rather than simply abandoning the field.
+
+His newer work asks whether classical networks can generate collective behavior described by mathematics that looks quantum.
+
+Imagine many ordinary oscillators interacting. None is individually in a quantum superposition. But under the right coupling, the state of the whole network can be represented with mathematical structures similar to those used in quantum mechanics. Scholes calls the resulting behavior quantumlike rather than quantum.
+
+That distinction matters. The claim is not that classical biology secretly violates the expected boundary between quantum and classical physics. It is that evolution may discover network organizations whose collective mathematics reproduces some useful features associated with quantum systems.
+
+This is scientifically interesting for two reasons.
+
+First, it is a good example of correction working properly. A glamorous hypothesis loses support, but the experimental and theoretical effort does not become wasted. It changes the question.
+
+Second, it raises an engineering possibility. If classical networks can reproduce selected quantumlike behaviors, perhaps some computational or sensing functions associated with quantum mathematics can be implemented without maintaining delicate quantum hardware. That remains speculative, and scaling such networks can erase the apparent advantage. But it is a more disciplined speculation than claiming that living cells already function as quantum computers.
+
+The broader lesson is that scientific progress is often not a contest between hype and debunking. Sometimes the failure of an exciting mechanism reveals a more general structure hiding underneath it.
