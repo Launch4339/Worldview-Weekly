@@ -81,25 +81,6 @@ def build_feed(current_date: str, current_title: str, description: str):
 
 
 def main():
-    # One-off October 8 staging: restore the ordinary pipeline after publication.
-    staged_dir = ROOT / "audio" / "staging" / "2026-10-08"
-    if staged_dir.is_dir():
-        parts = [
-            (staged_dir / f"part{i:02d}.txt").read_text(encoding="utf-8").strip()
-            for i in range(1, 6)
-        ]
-        parts[0] = parts[0].replace(
-            "From here, we turn to global politics and institutions.", ""
-        ).strip()
-        parts[2] = parts[2].replace(
-            "We turn to society, culture and ideas.", ""
-        ).strip()
-        complete_script = "\n\n".join(parts) + "\n"
-        assert complete_script.startswith(
-            "DATE: 2026-10-08\nTITLE: Worldview Weekly — October 8, 2026\n"
-        )
-        SCRIPT.write_text(complete_script, encoding="utf-8")
-
     text = SCRIPT.read_text(encoding="utf-8")
     date, title, body = parse_script(text)
     EPISODES.mkdir(parents=True, exist_ok=True)
@@ -115,19 +96,6 @@ def main():
     clean = re.sub(r"\s+", " ", body)
     desc = clean[:700] + ("…" if len(clean) > 700 else "")
     build_feed(date, title, desc)
-    if staged_dir.is_dir():
-        # Stage the generated full-length script and restore original build code.
-        Path(__file__).write_bytes(
-            (staged_dir / "build_audio_original.py").read_bytes()
-        )
-        subprocess.run(
-            ["git", "add", "audio/current.txt", "scripts/build_audio.py"],
-            cwd=ROOT, check=True,
-        )
-        subprocess.run(
-            ["git", "rm", "-r", "audio/staging/2026-10-08"],
-            cwd=ROOT, check=True,
-        )
 
 
 if __name__ == "__main__":

@@ -1,0 +1,37 @@
+Two connections worth making.
+
+Eleventh, Rest of World on a side effect of the AI boom that investors rarely discuss: the disappearance of the cheapest smartphones.
+
+We usually think of the AI investment cycle in terms of data centers, electricity, chips, expensive networks and the productivity of people using AI services. But the same semiconductor industry supplies components to many other markets, and those components are not immune to competition for manufacturing capacity.
+
+Reporter Kinling Lo follows the memory-chip market, where major suppliers have shifted resources toward the higher-value needs of AI infrastructure. The immediate consequence is pressure on the cost of low-priced mobile phones. Research quoted in the article suggests that existing phone models became roughly fifteen percent more expensive globally this year, and newly launched models even more. The burden is sharply unequal. Prices rose much faster in India and parts of Asia and Africa than in the United States, where wealthier buyers and higher-margin products dominate.
+
+Manufacturers face a commercial choice. They can absorb higher memory prices in products that already have very thin margins, or they can move customers toward more expensive models and abandon the least profitable entry-level devices. Chinese manufacturers that once expanded access by offering increasingly capable low-cost phones have incentives to do the latter.
+
+The results are large enough to matter socially. Rest of World cites industry figures showing that shipments of phones below one hundred dollars fell almost sixty percent year over year in the second quarter. In twenty twenty-five, more than a quarter of global smartphones shipped had cost less than one hundred fifty dollars. For many first-time buyers, the key issue is not a preference for premium features. A phone is the gateway to schooling, employment opportunities, banking, government services and communication with relatives.
+
+The article cites a striking measure of affordability: for poorer households in sub-Saharan Africa, the cost of an entry-level phone can consume a very large fraction of monthly income. When that price rises, the alternatives may be borrowing a device, postponing replacement, relying on an old feature phone or going without mobile internet. All of those can carry real opportunity costs.
+
+There are alternative pressures on phone prices too: currencies, tariffs, local taxes, model changes and distribution costs. It would be too strong to attribute every increase solely to data-center demand. But the common memory market gives a credible mechanism by which spending by the richest technology companies can make basic connectivity less affordable to the poorest users.
+
+That is the counterweight here. Economic analysis of AI often measures the return on new computing capacity. Distributional analysis should also measure what that capacity displaces elsewhere. An innovation boom can be a tax on another part of the supply chain, even if no one intended the transfer.
+
+Twelfth, also from Rest of World, on Red Sea conflict and the routes carrying the internet.
+
+The image of the cloud suggests software floating above geography. In reality, moving data between Europe and Asia depends heavily on fiber-optic cables laid on the sea floor, passing through narrow straits and landing in politically vulnerable places.
+
+The report says more than ninety percent of Europe-to-Asia data capacity passes through cables in the Red Sea. Near Yemen, the Bab al-Mandab strait compresses many routes into a relatively small space. One undersea cable can be backed up by another on a network diagram while the two remain exposed to the same regional conflict and the same difficulties in getting repairs done.
+
+Rest of World reports that Google, Meta and other large companies have been seeking costly terrestrial alternatives. A person familiar with arrangements described purchases involving fiber along Turkish pipelines and the use of routes crossing Iraq. The specific claims about Google and Meta were not confirmed by those companies before publication, so they should be treated as sourced reporting, not company announcements. Microsoft, by contrast, publicly committed more than four hundred million dollars to regional connectivity investments through twenty thirty.
+
+A key operational detail is easy to miss. A severed cable can sometimes be repaired in a matter of weeks once a specialist ship is available and permitted to work. In a war zone, the harder part may be obtaining access, insurance and assurances that a repair crew will not be attacked. Damage to cables in the region during earlier hostilities took months to resolve. Paying for nominally redundant capacity does little good if every route runs through the same danger zone.
+
+Land-based routes are not a frictionless solution either. They cross jurisdictions, require right-of-way agreements and can be expensive. Some will serve mostly as standby capacity rather than carry routine traffic. That may still be rational insurance, but it means resilience has an ongoing cost that will show up in infrastructure investment, network pricing or customer service commitments.
+
+The article turns geopolitics into something concrete for any household or enterprise using remote computing. A dispute over ports and waterways can affect payment apps, cloud services, global business transactions and the speed or reliability of international connections. Redundancy must be measured by independence of failure modes, not by counting cables.
+
+And this brings us back to the beginning. Energy subsidies, employment trends, Pacific aid, offshore engineering, affordable phones and internet cables look like different stories. They share a discipline of inquiry. Ask where the underlying cost went. Ask whether a statistic measures what the headline implies. Ask which institution is responsible for a problem that crosses boundaries. And ask whether two arrangements that seem diverse on paper actually depend on the same fragile assumption.
+
+No single publication or ideology has a monopoly on those questions. This week's authors disagree in methods, ambitions and politics. Their collective value lies in making important mechanisms visible, including the places where evidence is incomplete.
+
+That is Worldview Weekly for October eighth, twenty twenty-six. The twelve original articles, their dates, access notes and short reading summaries are in the written feed. Until next week.
